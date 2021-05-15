@@ -1,2 +1,3 @@
-BilliardsRoom\Content\Fuel_Bar
+BilliardsRoom\Content\Fuel_Bar\*
+!BilliardsRoom\Content\Fuel_Bar\map\
 *.uasset
