@@ -1534,3 +1534,15 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.05.23-21.02.03:622][612]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.055
 [2021.05.23-21.02.03:622][612]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.055
 [2021.05.23-21.12.48:537][290]Cmd: SELECT NONE
+[2021.05.23-21.24.57:040][486]LogActorFactory: Actor Factory created SM_Light_ceiling_fan
+[2021.05.23-21.24.57:112][486]LogD3D12RHI: Creating RTPSO with 152 shaders (151 cached, 1 new) took 52.64 ms. Compile time 44.88 ms, link time 7.53 ms.
+[2021.05.23-21.25.00:502][834]LogActorFactory: Actor Factory created SM_Light_ceiling_fan
+[2021.05.23-21.25.12:081][170]LogActorFactory: Actor Factory created SM_Light_ceiling_fan
+[2021.05.23-21.25.33:155][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_ceiling_fan2)
+[2021.05.23-21.25.46:449][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_ceiling_fan2)
+[2021.05.23-21.25.59:421][645]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.05.23-21.26.07:633][612]Cmd: EDIT COPY
+[2021.05.23-21.26.07:966][652]Cmd: EDIT PASTE
+[2021.05.23-21.26.13:739][324]Cmd: EDIT PASTE
+[2021.05.23-21.26.20:440][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_ceiling_fan3)
+[2021.05.23-21.26.31:891][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_floor10)
