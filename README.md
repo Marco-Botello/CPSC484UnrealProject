@@ -2,8 +2,8 @@
 
 Fuel Bar Scene
 
-Marco Botello
+by
 
-Andrew Dinh
-
-Tristan Stewart
+Marco Botello,
+ Andrew Dinh,
+ and Tristan Stewart
