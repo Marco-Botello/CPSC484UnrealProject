@@ -1,0 +1,1548 @@
+﻿Log file open, 05/23/21 12:51:20
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: BilliardsRoom
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.188257
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OpenColorIO
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin StylusInput
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AxFImporter
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin DataprepEditor
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin DatasmithC4DImporter
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin DatasmithIFCImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MeshModelingToolset
+LogPluginManager: Mounting plugin ModelingToolsEditorMode
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin HairStrands
+LogPluginManager: Mounting plugin HDRIBackdrop
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SunPosition
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/Tony/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.51.0
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i5-10600K CPU @ 4.10GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE4/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Engine.ini]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[r.Tonemapper.Sharpen:2]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:1]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:2048]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[r.HighResScreenshotDelay:8]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:1]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[r.RayTracing:1]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Engine.ini]
+[2021.05.23-19.51.21:690][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Engine.ini]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Engine.ini]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.23-19.51.21:690][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Engine.ini]
+[2021.05.23-19.51.21:690][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Engine.ini]
+[2021.05.23-19.51.21:708][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.23-19.51.21:708][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2021.05.23-19.51.21:709][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.23-19.51.21:709][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.23-19.51.21:709][  0]LogHAL: Display: Platform has ~ 16 GB [17098096640 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.23-19.51.21:709][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.23-19.51.21:709][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.23-19.51.21:709][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.23-19.51.21:710][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Engine.ini]
+[2021.05.23-19.51.21:710][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Config/Windows/Editor.ini]
+[2021.05.23-19.51.21:710][  0]LogInit: Computer: DESKTOP-GJ202JI
+[2021.05.23-19.51.21:710][  0]LogInit: User: Tony
+[2021.05.23-19.51.21:710][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.05.23-19.51.21:710][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.23-19.51.21:710][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.05.23-19.51.21:710][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.23-19.51.21:710][  0]LogMemory: Process Physical Memory: 143.17 MB used, 143.18 MB peak
+[2021.05.23-19.51.21:710][  0]LogMemory: Process Virtual Memory: 114.29 MB used, 114.29 MB peak
+[2021.05.23-19.51.21:710][  0]LogMemory: Physical Memory: 8272.27 MB used,  8033.75 MB free, 16306.02 MB total
+[2021.05.23-19.51.21:710][  0]LogMemory: Virtual Memory: 134210600.00 MB used,  7130.04 MB free, 134217728.00 MB total
+[2021.05.23-19.51.21:714][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.23-19.51.21:747][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.23-19.51.21:748][  0]LogInit: Using OS detected language (en-US).
+[2021.05.23-19.51.21:748][  0]LogInit: Using OS detected locale (en-US).
+[2021.05.23-19.51.21:749][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.05.23-19.51.21:897][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.23-19.51.21:907][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.23-19.51.21:924][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.23-19.51.21:924][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.23-19.51.22:022][  0]LogD3D12RHI: Aftermath initialized
+[2021.05.23-19.51.22:022][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2021.05.23-19.51.22:056][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.05.23-19.51.22:170][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1060 6GB (Max supported Feature Level 12_1)
+[2021.05.23-19.51.22:170][  0]LogD3D12RHI: Adapter has 6052MB of dedicated video memory, 0MB of dedicated system memory, and 8153MB of shared system memory, 2 output[s]
+[2021.05.23-19.51.22:177][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1)
+[2021.05.23-19.51.22:177][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8153MB of shared system memory, 0 output[s]
+[2021.05.23-19.51.22:177][  0]LogD3D12RHI: Forcing D3D12.AsyncDeferredDeletion=0 as a workaround for a deadlock.
+[2021.05.23-19.51.22:177][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2021.05.23-19.51.22:183][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2021.05.23-19.51.22:183][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2021.05.23-19.51.22:256][  0]LogD3D12RHI: The system supports ID3D12Device1.
+[2021.05.23-19.51.22:256][  0]LogD3D12RHI: The system supports ID3D12Device2.
+[2021.05.23-19.51.22:256][  0]LogD3D12RHI: The system supports ID3D12Device5.
+[2021.05.23-19.51.22:256][  0]LogD3D12RHI: The system supports ID3D12Device7.
+[2021.05.23-19.51.22:256][  0]LogD3D12RHI: D3D12 ray tracing 1.0 is supported.
+[2021.05.23-19.51.22:293][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2021.05.23-19.51.22:298][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2021.05.23-19.51.22:306][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2021.05.23-19.51.22:311][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2021.05.23-19.51.22:312][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2021.05.23-19.51.22:312][  0]LogD3D12RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.23-19.51.22:312][  0]LogWindows: EnumDisplayDevices:
+[2021.05.23-19.51.22:312][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2021.05.23-19.51.22:313][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2021.05.23-19.51.22:313][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.05.23-19.51.22:313][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.05.23-19.51.22:313][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.05.23-19.51.22:313][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2021.05.23-19.51.22:313][  0]LogD3D12RHI:   Driver Version: 461.72 (internal:27.21.14.6172, unified:461.72)
+[2021.05.23-19.51.22:313][  0]LogD3D12RHI:      Driver Date: 2-23-2021
+[2021.05.23-19.51.22:313][  0]LogRHI: Texture pool is 3328 MB (70% of 4755 MB)
+[2021.05.23-19.51.22:313][  0]LogD3D12RHI: Async texture creation enabled
+[2021.05.23-19.51.22:313][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2021.05.23-19.51.22:322][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.23-19.51.22:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.23-19.51.22:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.23-19.51.22:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.23-19.51.22:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.23-19.51.22:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.23-19.51.22:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.23-19.51.22:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.23-19.51.22:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.23-19.51.22:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.23-19.51.22:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.23-19.51.22:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.23-19.51.22:581][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.23-19.51.22:581][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.23-19.51.22:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.23-19.51.22:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.23-19.51.22:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.23-19.51.22:607][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.23-19.51.22:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.23-19.51.22:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.23-19.51.22:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.23-19.51.22:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.23-19.51.22:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.23-19.51.22:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.23-19.51.22:658][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.23-19.51.22:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.23-19.51.22:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.23-19.51.22:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.23-19.51.22:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.23-19.51.22:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.23-19.51.22:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.23-19.51.22:702][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.23-19.51.22:709][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.23-19.51.22:709][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.23-19.51.22:714][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.23-19.51.22:755][  0]LogRendererCore: Ray tracing is enabled for the editor. Reason: r.RayTracing=1.
+[2021.05.23-19.51.22:755][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Intermediate/Shaders/WorkingDirectory/260/).
+[2021.05.23-19.51.22:755][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tony/AppData/Local/Temp/UnrealShaderWorkingDir/2557031D4572FA4C792BE695BBBFC32D/'.
+[2021.05.23-19.51.22:755][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.23-19.51.22:755][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.23-19.51.23:488][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.23-19.51.23:539][  0]LogDerivedDataCache: Loaded boot cache 0.05s 100MB C:/Users/Tony/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.23-19.51.23:539][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tony/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.23-19.51.23:539][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.23-19.51.23:539][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.23-19.51.23:539][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.23-19.51.23:539][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.23-19.51.23:550][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.23-19.51.23:550][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.23-19.51.23:550][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.23-19.51.23:555][  0]LogDerivedDataCache: Speed tests for C:/Users/Tony/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.05.23-19.51.23:555][  0]LogDerivedDataCache: Display: Performance to C:/Users/Tony/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1494.91MBs, RandomWriteSpeed=214.63MBs. Assigned SpeedClass 'Local'
+[2021.05.23-19.51.23:556][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tony/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.23-19.51.23:556][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.23-19.51.23:556][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.23-19.51.23:612][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.23-19.51.23:613][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.23-19.51.23:632][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2021.05.23-19.51.23:849][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.23-19.51.23:849][  0]LogInit: Active device profile: [00000182B8023300][00000182B646CF00 49] Windows
+[2021.05.23-19.51.23:849][  0]LogInit: Profiles: [00000182B8023300][00000182B646CF00 49] Windows, [00000182B8010F00][00000182B6475080 49] WindowsNoEditor, [00000182B8020E00][00000182B6479200 49] WindowsServer, [00000182B8012F00][00000182B647D380 49] WindowsClient, [00000182B8022D00][00000182B6481500 49] IOS, [00000182B8011600][00000182B6491680 49] iPadAir, [00000182B8021400][00000182B6495800 49] iPadAir2, [00000182B7F4C900][00000182B86B7AC0 49] IPadPro, [00000182B7F4CA00][00000182B649DB00 49] iPadAir3, [00000182B8022B00][00000182B8729C80 49] iPadAir4, [00000182B7F4F500][00000182B8738140 49] iPadMini2, [00000182B8021600][00000182B87422C0 49] iPadMini3, [00000182B7F4E000][00000182B875A440 49] iPadMini4, [00000182B8020C00][00000182B6470580 49] iPadMini5, [00000182B8010E00][00000182B87727C0 49] iPhone6, [00000182B7F3BF00][00000182B876A800 49] iPodTouch6, [00000182B8012900][00000182B879AA80 49] iPhone7, [00000182B7F4F000][00000182B878EAC0 49] iPodTouch7, [00000182B7F39200][00000182B87A2C40 49] iPhone5S, [00000182B7F4C700][00000182B87C0DC0 49] iPhone6Plus, [00000182B7F3AC00][00000182B8836F40 49] iPhone6S, [00000182B7F4EC00][00000182B883B0C0 49] iPhone6SPlus, [00000182B7F39800][00000182B883F240 49] iPhone7Plus, [00000182B7F4E200][00000182B88433C0 49] iPhoneSE, [00000182B7F3BC00][00000182B8867540 49] iPhone8, [00000182B7F4D900][00000182B886B6C0 49] iPhone8Plus, [00000182B7F3B200][00000182B886F840 49] iPhoneX, [00000182B7F4F700][00000182B88739C0 49] iPhoneXS, [00000182B7F3B100][00000182B8877B40 49] iPhoneXSMax, [00000182B7F4ED00][00000182B887BCC0 49] iPhoneXR, [00000182B7F39000][00000182B8884180 49] iPhone11, [00000182B7F4FD00][00000182B8888300 49] iPhone11Pro, [00000182B7F3AE00][00000182B888C480 49] iPhone11ProMax, [00000182B7F4CE00][00000182B8890600 49] iPhoneSE2, [00000182B7F3BB00][00000182B8796740 49] iPhone12Mini, [00000182B7F4CB00][00000182B8894880 49] iPhone12, [00000182B7F38E00][00000182B88989C0 49] iPhone12Pro, [00000182B7F4D000][00000182B88A0B40 49] iPhone12ProMax, [00000182B7F38B00][00000182B88A8CC0 49] iPadPro105, [00000182B7F4C100][00000182B88CEE40 49] iPadPro129, [00000182B7F39B00][00000182B88D6FC0 49] iPadPro97, [00000182B7F4EF00][00000182BA9B7140 49] iPadPro2_129, [00000182B7F3A100][00000182BA9C72C0 49] iPad5, [00000182B7F4DB00][00000182BA9F7440 49] iPad6, [00000182B7F39F00][00000182BAA1B5C0 49] iPad7, [00000182B7F4C400][00000182BABBD740 49] iPad8, [00000182B7F38100][00000182BABDD8C0 49] iPadPro11, [00000182B7F4D300][00000182BABE9A40 49] iPadPro2_11, [00000182B7F38900][00000182BABEDBC0 49] iPadPro3_129, [00000182B7F4E900][00000182BABF1D40 49] iPadPro4_129, [00000182B7F3A500][00000182BABF4200 49] AppleTV, [00000182B7F4D600][00000182BABF8380 49] AppleTV4K, [00000182B7F38F00][00000182BABFC500 49] TVOS, [00000182B7F4E400][00000182BAC00680 49] Mac, [00000182B7F3A200][00000182B889C7C0 49] MacClient, [00000182B7F4DF00][00000182BAC04900 49] MacNoEditor, [00000182B7F39500][00000182BAC08A40 49] MacServer, [00000182B7F4C800][00000182BAC0CB80 49] Linux, [00000182B7F38400][00000182BAC14D00 49] LinuxAArch64, [00000182B7F4DD00][00000182BAC18E80 49] LinuxNoEditor, [00000182B8080C00][00000182BAC1D000 49] LinuxAArch64NoEditor, [00000182B8010300][00000182BAC21180 49] LinuxClient, [00000182B8080100][00000182BAC25300 49] LinuxAArch64Client, [00000182B8010D00][00000182BAC29480 49] LinuxServer, [00000182B8080E00][00000182BAC2D600 49] LinuxAArch64Server, [00000182B8012000][00000182BAC31780 49] Android, [00000182B8080300][00000182BAC35900 49] Android_Low, [00000182B8010900][00000182BAC39A80 49] Android_Mid, [00000182B8081000][00000182BAC3DC00 49] Android_High, [00000182B8013B00][00000182BAC400C0 49] Android_Default, [00000182B8080500][00000182BAC44240 49] Android_Adreno4xx, [00000182B8011700][00000182BAC483C0 49] Android_Adreno5xx_Low, [00000182B8080A00][00000182BAC4C540 49] Android_Adreno5xx, [00000182B8013000][00000182BAC506C0 49] Android_Adreno6xx, [00000182B8081300][00000182BAC10800 49] Android_Adreno6xx_Vulkan, [00000182B8012800][00000182BAC54940 49] Android_Mali_T6xx, [00000182B7F4EA00][00000182BAC58A80 49] Android_Mali_T7xx, [00000182B7F3AF00][00000182BAC5CBC0 49] Android_Mali_T8xx, [00000182B7F4C200][00000182BAC64D40 49] Android_Mali_G71, [00000182B7F3A600][00000182BAC68EC0 49] Android_Mali_G72, [00000182B7F4E700][00000182BAC6D040 49] Android_Mali_G72_Vulkan, [00000182B7F38C00][00000182BAC711C0 49] Android_Mali_G76, [00000182B7F4E600][00000182BAC75340 49] Android_Mali_G76_Vulkan, [00000182B7F39D00][00000182BAC794C0 49] Android_Mali_G77, [00000182B7F4F400][00000182BAC7D640 49] Android_Mali_G77_Vulkan, [00000182B7F3BE00][00000182BAC817C0 49] Android_Vulkan_SM5, [00000182B7F4F300][00000182BAC85940 49] Android_PowerVR_G6xxx, [00000182B7F39600][00000182BAC89AC0 49] Android_PowerVR_GT7xxx, [00000182B7F4E800][00000182BAC8DC40 49] Android_PowerVR_GE8xxx, [00000182B7F3A800][00000182BAC90100 49] Android_PowerVR_GM9xxx, [00000182B7F4CC00][00000182BAC94280 49] Android_PowerVR_GM9xxx_Vulkan, [00000182B7F38A00][00000182BAC98400 49] Android_TegraK1, [00000182B7F4DA00][00000182BAC9C580 49] Android_Unknown_Vulkan, [00000182B7F3B000][00000182BACA0700 49] Lumin, [00000182B7F4FA00][00000182BACA4880 49] Lumin_Desktop, [00000182B7F3BA00][00000182BAC609C0 49] HoloLens, 
+[2021.05.23-19.51.23:950][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.23-19.51.23:950][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.23-19.51.23:950][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.23-19.51.23:950][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.23-19.51.23:950][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.23-19.51.24:040][  0]LogNetVersion: BilliardsRoom 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1170553313)
+[2021.05.23-19.51.24:444][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.23-19.51.24:518][  0]LogPackageLocalizationCache: Processed 35 localized package path(s) for 1 prioritized culture(s) in 0.074303 seconds
+[2021.05.23-19.51.24:523][  0]LogUObjectArray: 17536 objects as part of root set at end of initial load.
+[2021.05.23-19.51.24:523][  0]LogUObjectAllocator: 4461568 out of 0 bytes used by permanent object pool.
+[2021.05.23-19.51.24:523][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.23-19.51.24:623][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (0 cached, 3 new) took 21.55 ms. Compile time 10.41 ms, link time 11.11 ms.
+[2021.05.23-19.51.24:821][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.23-19.51.24:824][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.23-19.51.24:835][  0]LogPython: Using Python 3.7.7
+[2021.05.23-19.51.26:272][  0]SourceControl: Source control is disabled
+[2021.05.23-19.51.26:272][  0]SourceControl: Source control is disabled
+[2021.05.23-19.51.26:297][  0]SourceControl: Source control is disabled
+[2021.05.23-19.51.26:299][  0]SourceControl: Source control is disabled
+[2021.05.23-19.51.26:304][  0]SourceControl: Source control is disabled
+[2021.05.23-19.51.26:315][  0]LogUProjectInfo: Found projects:
+[2021.05.23-19.51.26:396][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.23-19.51.26:414][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.23-19.51.26:414][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.23-19.51.26:536][  0]LogCollectionManager: Loaded 0 collections in 0.000445 seconds
+[2021.05.23-19.51.26:553][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Collections/' took 0.00s
+[2021.05.23-19.51.26:553][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Content/Developers/Tony/Collections/' took 0.00s
+[2021.05.23-19.51.26:553][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Content/Collections/' took 0.00s
+[2021.05.23-19.51.26:553][  0]LogOcInput: OculusInput pre-init called
+[2021.05.23-19.51.26:755][  0]LogEngine: Initializing Engine...
+[2021.05.23-19.51.26:810][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.05.23-19.51.26:810][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.23-19.51.26:811][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2021.05.23-19.51.26:812][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.23-19.51.26:921][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.23-19.51.26:929][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.23-19.51.26:930][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.23-19.51.26:932][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.23-19.51.26:932][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.23-19.51.26:933][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.23-19.51.26:933][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.23-19.51.26:933][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.23-19.51.26:933][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.23-19.51.26:933][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.23-19.51.26:933][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.23-19.51.26:933][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.23-19.51.26:933][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.23-19.51.26:933][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.23-19.51.26:933][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.23-19.51.26:964][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.23-19.51.26:964][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.23-19.51.26:991][  0]LogAudioMixer: Display: Using Audio Device HyperX Headphones (HyperX Amp Game)
+[2021.05.23-19.51.26:994][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.23-19.51.26:995][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.23-19.51.26:995][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.23-19.51.26:996][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.23-19.51.26:996][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.23-19.51.26:996][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.23-19.51.26:997][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.23-19.51.26:997][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.23-19.51.26:997][  0]LogInit: FAudioDevice initialized.
+[2021.05.23-19.51.26:997][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.23-19.51.26:997][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.23-19.51.27:042][  0]LogDerivedDataCache: Saved boot cache 0.04s 100MB C:/Users/Tony/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.23-19.51.27:045][  0]LogInit: Texture streaming: Enabled
+[2021.05.23-19.51.27:055][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.23-19.51.27:058][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.23-19.51.27:058][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.23-19.51.27:059][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.23-19.51.27:083][  0]LogInit: Transaction tracking system initialized
+[2021.05.23-19.51.27:098][  0]BlueprintLog: New page: Editor Load
+[2021.05.23-19.51.27:149][  0]LocalizationService: Localization service is disabled
+[2021.05.23-19.51.27:165][  0]TimingProfiler: Initialize
+[2021.05.23-19.51.27:166][  0]TimingProfiler: OnSessionChanged
+[2021.05.23-19.51.27:166][  0]LoadingProfiler: Initialize
+[2021.05.23-19.51.27:166][  0]LoadingProfiler: OnSessionChanged
+[2021.05.23-19.51.27:166][  0]NetworkingProfiler: Initialize
+[2021.05.23-19.51.27:166][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.23-19.51.27:166][  0]MemoryProfiler: Initialize
+[2021.05.23-19.51.27:166][  0]MemoryProfiler: OnSessionChanged
+[2021.05.23-19.51.27:273][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.23-19.51.27:273][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.23-19.51.28:549][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Content/' took 0.00s
+[2021.05.23-19.51.28:859][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.23-19.51.28:862][  0]SourceControl: Source control is disabled
+[2021.05.23-19.51.28:862][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.410
+[2021.05.23-19.51.28:862][  0]Cmd: MAP LOAD FILE="C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Content/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.23-19.51.28:862][  0]LightingResults: New page: Lighting Build
+[2021.05.23-19.51.28:863][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.23-19.51.28:864][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.23-19.51.28:864][  0]MapCheck: New page: Map Check
+[2021.05.23-19.51.28:864][  0]LightingResults: New page: Lighting Build
+[2021.05.23-19.51.28:870][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.05.23-19.51.29:129][  0]LogMaterial: Display: Missing cached shader map for material M_Ceiling_fan_emissive_glass, compiling. 
+[2021.05.23-19.51.29:182][  0]LogStaticMesh: Building static mesh SM_Light_ceiling_fan...
+[2021.05.23-19.51.29:380][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 28
+[2021.05.23-19.51.29:380][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2021.05.23-19.51.29:380][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2021.05.23-19.51.29:380][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2021.05.23-19.51.29:380][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.05.23-19.51.29:380][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.05.23-19.51.29:380][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.05.23-19.51.29:380][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (BGRA8, 4096X4096)
+[2021.05.23-19.51.29:380][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (BGRA8, 4096X4096)
+[2021.05.23-19.51.29:380][  0]LogStaticMesh: Built static mesh [0.20s] /Game/Fuel_Bar/mesh/SM_Light_ceiling_fan.SM_Light_ceiling_fan
+[2021.05.23-19.51.29:665][  0]LogStaticMesh: Building static mesh SM_pool_table_balls_01...
+[2021.05.23-19.51.29:675][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Fuel_Bar/mesh/SM_pool_table_balls_01.SM_pool_table_balls_01
+[2021.05.23-19.51.29:677][  0]LogStaticMesh: Building static mesh SM_pool_table_balls_02...
+[2021.05.23-19.51.29:682][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Fuel_Bar/mesh/SM_pool_table_balls_02.SM_pool_table_balls_02
+[2021.05.23-19.51.29:684][  0]LogStaticMesh: Building static mesh SM_pool_table_balls_03...
+[2021.05.23-19.51.29:690][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Fuel_Bar/mesh/SM_pool_table_balls_03.SM_pool_table_balls_03
+[2021.05.23-19.51.29:690][  0]LogStaticMesh: Building static mesh SM_pool_table_balls_04...
+[2021.05.23-19.51.29:697][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Fuel_Bar/mesh/SM_pool_table_balls_04.SM_pool_table_balls_04
+[2021.05.23-19.51.29:700][  0]LogStaticMesh: Building static mesh SM_pool_table_balls_05...
+[2021.05.23-19.51.29:708][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Fuel_Bar/mesh/SM_pool_table_balls_05.SM_pool_table_balls_05
+[2021.05.23-19.51.29:709][  0]LogStaticMesh: Building static mesh SM_pool_table_balls_06...
+[2021.05.23-19.51.29:716][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Fuel_Bar/mesh/SM_pool_table_balls_06.SM_pool_table_balls_06
+[2021.05.23-19.51.29:717][  0]LogStaticMesh: Building static mesh SM_pool_table_balls_07...
+[2021.05.23-19.51.29:723][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Fuel_Bar/mesh/SM_pool_table_balls_07.SM_pool_table_balls_07
+[2021.05.23-19.51.29:724][  0]LogStaticMesh: Building static mesh SM_pool_table_balls_08...
+[2021.05.23-19.51.29:729][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Fuel_Bar/mesh/SM_pool_table_balls_08.SM_pool_table_balls_08
+[2021.05.23-19.51.29:731][  0]LogStaticMesh: Building static mesh SM_pool_table_balls_10...
+[2021.05.23-19.51.29:735][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Fuel_Bar/mesh/SM_pool_table_balls_10.SM_pool_table_balls_10
+[2021.05.23-19.51.29:736][  0]LogStaticMesh: Building static mesh SM_pool_table_balls_11...
+[2021.05.23-19.51.29:741][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Fuel_Bar/mesh/SM_pool_table_balls_11.SM_pool_table_balls_11
+[2021.05.23-19.51.29:742][  0]LogStaticMesh: Building static mesh SM_pool_table_balls_12...
+[2021.05.23-19.51.29:747][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Fuel_Bar/mesh/SM_pool_table_balls_12.SM_pool_table_balls_12
+[2021.05.23-19.51.29:748][  0]LogStaticMesh: Building static mesh SM_pool_table_balls_13...
+[2021.05.23-19.51.29:754][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Fuel_Bar/mesh/SM_pool_table_balls_13.SM_pool_table_balls_13
+[2021.05.23-19.51.29:755][  0]LogStaticMesh: Building static mesh SM_pool_table_balls_14...
+[2021.05.23-19.51.29:758][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Fuel_Bar/mesh/SM_pool_table_balls_14.SM_pool_table_balls_14
+[2021.05.23-19.51.29:759][  0]LogStaticMesh: Building static mesh SM_pool_table_balls_15...
+[2021.05.23-19.51.29:765][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Fuel_Bar/mesh/SM_pool_table_balls_15.SM_pool_table_balls_15
+[2021.05.23-19.51.29:768][  0]LogStaticMesh: Building static mesh SM_pool_table_stick...
+[2021.05.23-19.51.29:773][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Fuel_Bar/mesh/SM_pool_table_stick.SM_pool_table_stick
+[2021.05.23-19.51.29:774][  0]LogStaticMesh: Building static mesh SM_pool_table_triangle...
+[2021.05.23-19.51.29:780][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Fuel_Bar/mesh/SM_pool_table_triangle.SM_pool_table_triangle
+[2021.05.23-19.51.29:816][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2021.05.23-19.51.29:817][  0]LogAIModule: Creating AISystem for world Main
+[2021.05.23-19.51.29:843][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.23-19.51.29:851][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.05.23-19.51.29:854][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.23-19.51.29:854][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2021.05.23-19.51.29:854][  0]LogFileHelpers: Loading map 'Main' took 0.992
+[2021.05.23-19.51.29:856][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.404
+[2021.05.23-19.51.30:001][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.23-19.51.30:009][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.23-19.51.30:017][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.23-19.51.30:023][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.23-19.51.30:037][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0101 seconds. Added 4257 classes and 992 folders.
+[2021.05.23-19.51.30:038][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.23-19.51.30:039][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.23-19.51.30:039][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:039][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.23-19.51.30:039][  0]LogPakFile: OnPakFileMounted2Time == 0.000005
+[2021.05.23-19.51.30:040][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.23-19.51.30:040][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:040][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.23-19.51.30:040][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.05.23-19.51.30:040][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.23-19.51.30:040][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:040][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.23-19.51.30:040][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.05.23-19.51.30:041][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.23-19.51.30:041][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:041][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.23-19.51.30:041][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.05.23-19.51.30:041][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.23-19.51.30:041][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:041][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.23-19.51.30:041][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.05.23-19.51.30:042][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.23-19.51.30:042][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:042][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.23-19.51.30:042][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.05.23-19.51.30:042][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.23-19.51.30:042][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:042][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.23-19.51.30:042][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.05.23-19.51.30:042][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.23-19.51.30:043][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:043][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.23-19.51.30:043][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.05.23-19.51.30:043][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.23-19.51.30:043][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:043][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.23-19.51.30:043][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.05.23-19.51.30:043][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.23-19.51.30:043][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:043][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.23-19.51.30:043][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.05.23-19.51.30:044][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.23-19.51.30:044][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:044][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.23-19.51.30:044][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.05.23-19.51.30:044][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.23-19.51.30:044][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:044][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.23-19.51.30:044][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.05.23-19.51.30:045][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.23-19.51.30:045][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:045][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.23-19.51.30:045][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.05.23-19.51.30:046][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.23-19.51.30:046][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:046][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.23-19.51.30:046][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.05.23-19.51.30:046][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.23-19.51.30:046][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:046][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.23-19.51.30:046][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.05.23-19.51.30:046][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.23-19.51.30:046][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:046][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.23-19.51.30:046][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.05.23-19.51.30:047][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.23-19.51.30:047][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:047][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.23-19.51.30:047][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.05.23-19.51.30:047][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.23-19.51.30:047][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:047][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.23-19.51.30:047][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.05.23-19.51.30:048][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.23-19.51.30:048][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:048][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.23-19.51.30:048][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.05.23-19.51.30:048][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.23-19.51.30:048][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:048][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.23-19.51.30:048][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.05.23-19.51.30:049][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.23-19.51.30:049][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:049][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.23-19.51.30:049][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.05.23-19.51.30:049][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.23-19.51.30:049][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:049][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.23-19.51.30:049][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.05.23-19.51.30:049][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.23-19.51.30:049][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:049][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.23-19.51.30:050][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.05.23-19.51.30:050][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.23-19.51.30:050][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:050][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.23-19.51.30:050][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.05.23-19.51.30:051][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.23-19.51.30:051][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:051][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.23-19.51.30:051][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.05.23-19.51.30:051][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.23-19.51.30:051][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.51.30:051][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.23-19.51.30:051][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.05.23-19.51.30:076][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.23-19.51.30:077][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.05.23-19.51.30:105][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.23-19.51.30:107][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.23-19.51.30:112][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.23-19.51.30:224][  0]LogRenderer: Reallocating scene render targets to support 1208x608 Format 10 NumSamples 1 (Frame:1).
+[2021.05.23-19.51.30:513][  0]LogD3D12RHI: Creating RTPSO with 141 shaders (0 cached, 141 new) took 260.24 ms. Compile time 235.67 ms, link time 24.23 ms.
+[2021.05.23-19.51.30:818][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.23-19.51.30:828][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.23-19.51.32:623][  0]LogD3D12RHI: Creating RTPSO with 10 shaders (0 cached, 10 new) took 1794.62 ms. Compile time 25.50 ms, link time 1769.08 ms.
+[2021.05.23-19.51.32:624][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.23-19.51.32:632][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.23-19.51.32:693][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (2 cached, 1 new) took 59.23 ms. Compile time 0.43 ms, link time 58.78 ms.
+[2021.05.23-19.51.32:693][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.23-19.51.32:702][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.23-19.51.32:998][  0]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.23-19.51.33:049][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.23-19.51.33:049][  0]LogLoad: (Engine Initialization) Total time: 12.60 seconds
+[2021.05.23-19.51.33:049][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.23-19.51.33:049][  0]LogInit: First time updating LLM stats...
+[2021.05.23-19.51.33:105][  0]LogAssetRegistry: Asset discovery search completed in 9.4730 seconds
+[2021.05.23-19.51.33:106][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.05.23-19.51.33:155][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.23-19.51.33:248][  4]LogD3D12RHI: Creating RTPSO with 143 shaders (141 cached, 2 new) took 45.29 ms. Compile time 38.80 ms, link time 6.31 ms.
+[2021.05.23-19.51.33:266][  4]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.23-19.51.33:274][  4]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.23-19.51.33:274][  4]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.23-19.51.33:284][  4]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.23-19.51.33:284][  4]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.23-19.51.33:296][  4]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.23-19.51.33:632][  9]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.23-19.51.33:647][ 10]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.23-19.51.33:647][ 10]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.23-19.51.33:647][ 10]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.23-19.51.34:633][ 24]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.23-19.51.34:633][ 24]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.23-19.51.34:633][ 24]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.23-19.51.34:635][ 24]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.23-19.52.45:139][975]LogEditorViewport: Clicking on Actor (LMB): BP_pool_table_C (BP_pool_table)
+[2021.05.23-19.52.49:416][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_pool_table_main)
+[2021.05.23-19.52.57:622][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bar_props_craft_beer_02)
+[2021.05.23-19.52.59:045][596]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_structure_bar_top)
+[2021.05.23-19.52.59:897][691]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_structure_bar_top)
+[2021.05.23-19.53.00:678][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_bar_top)
+[2021.05.23-19.53.02:707][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bar_props_craft_beer_02)
+[2021.05.23-19.53.19:189][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_floor5)
+[2021.05.23-19.53.25:801][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_pool_table_main)
+[2021.05.23-19.53.48:348][431]LogTemp: Repeating last play command: Standalone Game
+[2021.05.23-19.53.48:358][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.05.23-19.53.51:612][431]LogSlate: Window 'Save Content' being destroyed
+[2021.05.23-19.53.51:616][431]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2021.05.23-19.53.51:616][431]PIE: Warning: PIE failed because map save was canceled
+[2021.05.23-19.53.51:655][431]LogSlate: Took 0.007916 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.23-19.53.57:166][ 91]LogSlate: Window 'Message Log' being destroyed
+[2021.05.23-19.53.57:170][ 91]LogSlate: Window 'Message Log' being destroyed
+[2021.05.23-19.57.28:822][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_stage_2)
+[2021.05.23-19.57.30:306][948]Cmd: EDIT COPY
+[2021.05.23-19.57.32:465][207]Cmd: EDIT PASTE
+[2021.05.23-19.57.53:716][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_stage_01)
+[2021.05.23-19.57.55:117][909]Cmd: EDIT CUT
+[2021.05.23-19.57.55:121][909]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-19.57.55:127][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.05.23-19.57.55:128][909]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.05.23-19.57.55:784][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_stage_3)
+[2021.05.23-19.57.56:802][107]Cmd: EDIT COPY
+[2021.05.23-19.57.57:246][160]Cmd: EDIT PASTE
+[2021.05.23-19.58.02:088][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_ceiling)
+[2021.05.23-20.01.24:003][403]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.23-20.01.33:030][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.05.23-20.01.33:063][430]LogSavePackage: Moving 'C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Main_Auto1BB031F7E41BCB7644FCFEC97E1328A8C.tmp' to 'C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Autosaves/Game/Main_Auto1.umap'
+[2021.05.23-20.01.33:065][430]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.040
+[2021.05.23-20.01.33:065][430]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2021.05.23-20.02.38:627][370]LogStaticMesh: Building static mesh SM_small_props_beer_pack_02...
+[2021.05.23-20.02.39:603][370]LogStaticMesh: Built static mesh [0.98s] /Game/Fuel_Bar/mesh/SM_small_props_beer_pack_02.SM_small_props_beer_pack_02
+[2021.05.23-20.02.39:828][370]LogMaterial: Display: Missing cached shader map for material M_bottle_liquid, compiling. 
+[2021.05.23-20.02.39:840][370]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 28
+[2021.05.23-20.02.39:840][370]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2021.05.23-20.02.39:840][370]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2021.05.23-20.02.39:840][370]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2021.05.23-20.02.39:840][370]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.05.23-20.02.39:840][370]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.05.23-20.02.39:840][370]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.05.23-20.02.39:936][370]LogActorFactory: Actor Factory created SM_small_props_beer_pack_02
+[2021.05.23-20.02.40:060][373]LogD3D12RHI: Creating RTPSO with 146 shaders (143 cached, 3 new) took 102.71 ms. Compile time 94.08 ms, link time 8.33 ms.
+[2021.05.23-20.02.42:885][626]LogD3D12RHI: Creating RTPSO with 147 shaders (146 cached, 1 new) took 49.07 ms. Compile time 43.38 ms, link time 5.48 ms.
+[2021.05.23-20.02.47:856][221]LogActorFactory: Actor Factory created SM_small_props_beer_pack_02
+[2021.05.23-20.04.18:706][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_beer_pack_02)
+[2021.05.23-20.04.20:296][222]Cmd: EDIT CUT
+[2021.05.23-20.04.20:299][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.04.20:304][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.05.23-20.04.20:306][222]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.05.23-20.05.06:049][728]LogStaticMesh: Building static mesh SM_small_props_bar_equipment_02...
+[2021.05.23-20.05.06:069][728]LogStaticMesh: Built static mesh [0.02s] /Game/Fuel_Bar/mesh/SM_small_props_bar_equipment_02.SM_small_props_bar_equipment_02
+[2021.05.23-20.05.06:199][740]LogActorFactory: Actor Factory created SM_small_props_bar_equipment_02
+[2021.05.23-20.05.07:570][890]LogActorFactory: Actor Factory created SM_small_props_bar_equipment_02
+[2021.05.23-20.05.21:887][600]Cmd: TRANSACTION UNDO
+[2021.05.23-20.05.21:887][600]LogEditorTransaction: Undo Scale Actors
+[2021.05.23-20.05.31:209][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_bar_back)
+[2021.05.23-20.05.34:398][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_equipment_02)
+[2021.05.23-20.05.38:215][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_bar_back)
+[2021.05.23-20.06.34:011][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_ceiling)
+[2021.05.23-20.06.55:356][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Buildings_Low_8m_01)
+[2021.05.23-20.07.07:347][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_stage_4)
+[2021.05.23-20.07.15:519][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_stage_3)
+[2021.05.23-20.07.25:119][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_stage_2)
+[2021.05.23-20.07.28:521][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_floor16)
+[2021.05.23-20.08.00:850][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_stage_4)
+[2021.05.23-20.08.01:687][642]Cmd: EDIT CUT
+[2021.05.23-20.08.01:690][642]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.08.01:696][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.05.23-20.08.01:697][642]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.05.23-20.08.02:711][764]Cmd: TRANSACTION UNDO
+[2021.05.23-20.08.02:711][764]LogEditorTransaction: Undo Cut
+[2021.05.23-20.08.03:270][796]Cmd: EDIT COPY
+[2021.05.23-20.08.04:032][887]Cmd: EDIT PASTE
+[2021.05.23-20.11.33:643][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.05.23-20.11.33:671][193]LogSavePackage: Moving 'C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Main_Auto224D1CF914273138880A48384E391072F.tmp' to 'C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Autosaves/Game/Main_Auto2.umap'
+[2021.05.23-20.11.33:672][193]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.035
+[2021.05.23-20.11.33:672][193]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2021.05.23-20.13.01:816][589]LogStaticMesh: Building static mesh SM_small_props_bar_equipment_05...
+[2021.05.23-20.13.01:837][589]LogStaticMesh: Built static mesh [0.02s] /Game/Fuel_Bar/mesh/SM_small_props_bar_equipment_05.SM_small_props_bar_equipment_05
+[2021.05.23-20.13.01:962][600]LogActorFactory: Actor Factory created SM_small_props_bar_equipment_05
+[2021.05.23-20.13.04:520][882]LogActorFactory: Actor Factory created SM_small_props_bar_equipment_05
+[2021.05.23-20.13.06:889][159]Cmd: EDIT CUT
+[2021.05.23-20.13.06:892][159]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.13.06:897][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.23-20.13.06:898][159]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.05.23-20.13.08:555][358]Cmd: EDIT PASTE
+[2021.05.23-20.13.08:888][395]Cmd: EDIT PASTE
+[2021.05.23-20.13.12:180][786]Cmd: EDIT PASTE
+[2021.05.23-20.13.15:747][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_equipment_6)
+[2021.05.23-20.13.28:811][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_equipment_7)
+[2021.05.23-20.13.31:065][ 35]Cmd: EDIT CUT
+[2021.05.23-20.13.31:067][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.13.31:072][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.05.23-20.13.31:073][ 35]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.05.23-20.13.31:646][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_equipment_05)
+[2021.05.23-20.13.34:405][432]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_small_props_bar_equipment_6)
+[2021.05.23-20.13.35:773][593]Cmd: EDIT COPY
+[2021.05.23-20.13.36:025][623]Cmd: EDIT PASTE
+[2021.05.23-20.13.41:253][246]Cmd: EDIT PASTE
+[2021.05.23-20.13.47:863][ 35]Cmd: EDIT CUT
+[2021.05.23-20.13.47:866][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.13.47:866][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.13.47:871][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.05.23-20.13.47:871][ 35]LogEditorActor: Deleted 2 Actors (0.008 secs)
+[2021.05.23-20.13.48:495][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_equipment_8)
+[2021.05.23-20.13.50:095][299]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_small_props_bar_equipment_7)
+[2021.05.23-20.13.51:236][433]Cmd: EDIT COPY
+[2021.05.23-20.13.51:464][460]Cmd: EDIT PASTE
+[2021.05.23-20.13.55:408][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_equipment_7)
+[2021.05.23-20.13.55:868][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_equipment_8)
+[2021.05.23-20.13.56:752][ 84]Cmd: EDIT COPY
+[2021.05.23-20.13.57:135][130]Cmd: EDIT PASTE
+[2021.05.23-20.14.01:876][695]Cmd: EDIT PASTE
+[2021.05.23-20.14.06:205][210]Cmd: EDIT PASTE
+[2021.05.23-20.14.09:568][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_bar_back)
+[2021.05.23-20.16.37:100][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Buildings_Low_8m_01)
+[2021.05.23-20.17.18:217][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Buildings_Low_8m_2)
+[2021.05.23-20.17.23:023][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Buildings_Low_8m_01)
+[2021.05.23-20.19.36:980][662]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.23-20.19.36:997][663]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.23-20.19.36:998][663]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.23-20.19.36:998][663]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.23-20.20.53:989][ 68]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_small_props_bar_equipment_11)
+[2021.05.23-20.20.55:068][194]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_small_props_bar_equipment_7)
+[2021.05.23-20.20.55:674][264]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_small_props_bar_equipment_8)
+[2021.05.23-20.20.57:465][471]LogD3D12RHI: Creating RTPSO with 149 shaders (148 cached, 1 new) took 61.14 ms. Compile time 55.30 ms, link time 5.65 ms.
+[2021.05.23-20.20.59:871][758]Cmd: TRANSACTION UNDO
+[2021.05.23-20.20.59:871][758]LogEditorTransaction: Undo Move Actors
+[2021.05.23-20.21.18:805][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_equipment_9)
+[2021.05.23-20.21.21:752][340]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_small_props_bar_equipment_10)
+[2021.05.23-20.21.22:354][409]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_small_props_bar_equipment_13)
+[2021.05.23-20.21.27:835][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_equipment_7)
+[2021.05.23-20.21.28:711][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_bar_back)
+[2021.05.23-20.21.29:480][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_equipment_7)
+[2021.05.23-20.21.30:641][385]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_small_props_bar_equipment_8)
+[2021.05.23-20.21.30:939][418]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_small_props_bar_equipment_11)
+[2021.05.23-20.21.33:710][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_equipment_05)
+[2021.05.23-20.21.37:784][232]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_small_props_bar_equipment_6)
+[2021.05.23-20.21.38:152][273]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_small_props_bar_equipment_12)
+[2021.05.23-20.21.38:660][331]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_small_props_bar_equipment_05)
+[2021.05.23-20.21.41:599][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_equipment_9)
+[2021.05.23-20.21.44:187][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_bar_back)
+[2021.05.23-20.21.44:857][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_equipment_9)
+[2021.05.23-20.21.45:594][149]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_small_props_bar_equipment_10)
+[2021.05.23-20.21.45:993][194]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_small_props_bar_equipment_13)
+[2021.05.23-20.21.48:514][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_bar_back)
+[2021.05.23-20.22.39:201][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.05.23-20.22.39:231][143]LogSavePackage: Moving 'C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Main_Auto3EBA0A3FB49E16B85132E079FA703F339.tmp' to 'C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Autosaves/Game/Main_Auto3.umap'
+[2021.05.23-20.22.39:232][143]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.037
+[2021.05.23-20.22.39:232][143]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2021.05.23-20.22.48:080][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Buildings_Low_8m_01)
+[2021.05.23-20.22.54:383][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_floor26)
+[2021.05.23-20.23.11:551][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_bar_back2)
+[2021.05.23-20.23.28:824][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_floor11)
+[2021.05.23-20.23.31:382][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_bar_back2)
+[2021.05.23-20.24.19:763][ 51]LogStaticMesh: Building static mesh SM_small_props_bar_equipment_04...
+[2021.05.23-20.24.19:788][ 51]LogStaticMesh: Built static mesh [0.02s] /Game/Fuel_Bar/mesh/SM_small_props_bar_equipment_04.SM_small_props_bar_equipment_04
+[2021.05.23-20.24.19:967][ 69]LogActorFactory: Actor Factory created SM_small_props_bar_equipment_04
+[2021.05.23-20.24.20:889][158]LogActorFactory: Actor Factory created SM_small_props_bar_equipment_04
+[2021.05.23-20.24.32:513][544]Cmd: EDIT CUT
+[2021.05.23-20.24.32:517][544]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.24.32:522][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.05.23-20.24.32:523][544]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.05.23-20.24.33:695][685]Cmd: EDIT PASTE
+[2021.05.23-20.24.34:080][728]Cmd: EDIT PASTE
+[2021.05.23-20.25.01:732][  5]LogStaticMesh: Building static mesh SM_small_props_table_stuff_02...
+[2021.05.23-20.25.01:754][  5]LogStaticMesh: Built static mesh [0.02s] /Game/Fuel_Bar/mesh/SM_small_props_table_stuff_02.SM_small_props_table_stuff_02
+[2021.05.23-20.25.01:853][ 12]LogActorFactory: Actor Factory created SM_small_props_table_stuff_02
+[2021.05.23-20.25.03:244][166]LogActorFactory: Actor Factory created SM_small_props_table_stuff_02
+[2021.05.23-20.25.11:416][128]LogStaticMesh: Building static mesh SM_small_props_menu...
+[2021.05.23-20.25.11:434][128]LogStaticMesh: Built static mesh [0.02s] /Game/Fuel_Bar/mesh/SM_small_props_menu.SM_small_props_menu
+[2021.05.23-20.25.11:526][135]LogActorFactory: Actor Factory created SM_small_props_menu
+[2021.05.23-20.25.14:973][522]LogActorFactory: Actor Factory created SM_small_props_menu
+[2021.05.23-20.25.30:217][337]LogStaticMesh: Building static mesh SM_small_props_table_stuff_01...
+[2021.05.23-20.25.30:236][337]LogStaticMesh: Built static mesh [0.02s] /Game/Fuel_Bar/mesh/SM_small_props_table_stuff_01.SM_small_props_table_stuff_01
+[2021.05.23-20.25.30:359][347]LogActorFactory: Actor Factory created SM_small_props_table_stuff_01
+[2021.05.23-20.25.32:190][547]LogActorFactory: Actor Factory created SM_small_props_table_stuff_01
+[2021.05.23-20.25.35:386][927]Cmd: EDIT CUT
+[2021.05.23-20.25.35:389][927]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.25.35:394][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.05.23-20.25.35:395][927]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.05.23-20.25.36:212][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_table_stuff_02)
+[2021.05.23-20.25.36:679][ 78]Cmd: EDIT CUT
+[2021.05.23-20.25.36:681][ 78]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.25.36:686][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.23-20.25.36:686][ 78]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.05.23-20.25.40:590][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_menu)
+[2021.05.23-20.25.53:658][110]Cmd: EDIT COPY
+[2021.05.23-20.25.53:884][137]Cmd: EDIT PASTE
+[2021.05.23-20.26.06:873][682]Cmd: EDIT CUT
+[2021.05.23-20.26.06:876][682]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.26.06:881][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.05.23-20.26.06:882][682]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.05.23-20.26.07:596][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_menu)
+[2021.05.23-20.26.16:754][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Buildings_Corner_01_right)
+[2021.05.23-20.26.40:868][710]LogStaticMesh: Building static mesh SM_small_props_can_pack_04...
+[2021.05.23-20.26.41:517][710]LogStaticMesh: Built static mesh [0.65s] /Game/Fuel_Bar/mesh/SM_small_props_can_pack_04.SM_small_props_can_pack_04
+[2021.05.23-20.26.41:682][710]LogActorFactory: Actor Factory created SM_small_props_can_pack_04
+[2021.05.23-20.26.45:371][148]LogActorFactory: Actor Factory created SM_small_props_can_pack_04
+[2021.05.23-20.27.16:006][805]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_small_props_can_pack_04)
+[2021.05.23-20.27.17:283][954]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_small_props_can_pack_04)
+[2021.05.23-20.27.28:368][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_can_pack_04)
+[2021.05.23-20.27.39:709][559]LogStaticMesh: Building static mesh SM_small_props_can_pack_03...
+[2021.05.23-20.27.40:366][559]LogStaticMesh: Built static mesh [0.66s] /Game/Fuel_Bar/mesh/SM_small_props_can_pack_03.SM_small_props_can_pack_03
+[2021.05.23-20.27.40:532][560]LogActorFactory: Actor Factory created SM_small_props_can_pack_03
+[2021.05.23-20.27.44:623][ 37]LogActorFactory: Actor Factory created SM_small_props_can_pack_03
+[2021.05.23-20.27.57:990][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_can_pack_03)
+[2021.05.23-20.28.05:484][525]LogActorFactory: Actor Factory created SM_small_props_can_pack_04
+[2021.05.23-20.28.09:694][  4]LogActorFactory: Actor Factory created SM_small_props_can_pack_04
+[2021.05.23-20.28.23:853][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_can_pack_03)
+[2021.05.23-20.28.31:380][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_can_pack_5)
+[2021.05.23-20.28.32:264][687]Cmd: EDIT CUT
+[2021.05.23-20.28.32:267][687]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.28.32:272][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.05.23-20.28.32:274][687]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.05.23-20.28.32:752][744]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_small_props_can_pack_03)
+[2021.05.23-20.28.33:078][780]Cmd: EDIT COPY
+[2021.05.23-20.28.34:813][988]Cmd: EDIT PASTE
+[2021.05.23-20.28.41:200][750]Cmd: TRANSACTION UNDO
+[2021.05.23-20.28.41:200][750]LogEditorTransaction: Undo Move Actors
+[2021.05.23-20.28.43:948][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_bar_back)
+[2021.05.23-20.28.54:322][271]LogActorFactory: Actor Factory created SM_small_props_beer_pack_02
+[2021.05.23-20.28.56:256][498]LogActorFactory: Actor Factory created SM_small_props_beer_pack_02
+[2021.05.23-20.29.08:786][967]LogActorFactory: Actor Factory created SM_small_props_beer_pack_02
+[2021.05.23-20.29.13:877][566]LogActorFactory: Actor Factory created SM_small_props_beer_pack_02
+[2021.05.23-20.29.50:584][936]LogStaticMesh: Building static mesh SM_small_props_bar_single_glass_03...
+[2021.05.23-20.29.50:614][936]LogStaticMesh: Built static mesh [0.03s] /Game/Fuel_Bar/mesh/SM_small_props_bar_single_glass_03.SM_small_props_bar_single_glass_03
+[2021.05.23-20.29.50:711][943]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_03
+[2021.05.23-20.29.52:130][ 90]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_03
+[2021.05.23-20.29.53:064][194]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_03
+[2021.05.23-20.29.54:252][315]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_03
+[2021.05.23-20.29.59:648][952]LogStaticMesh: Building static mesh SM_small_props_bar_glass_pack_03...
+[2021.05.23-20.30.00:836][952]LogStaticMesh: Built static mesh [1.19s] /Game/Fuel_Bar/mesh/SM_small_props_bar_glass_pack_03.SM_small_props_bar_glass_pack_03
+[2021.05.23-20.30.01:266][952]LogActorFactory: Actor Factory created SM_small_props_bar_glass_pack_03
+[2021.05.23-20.30.08:655][835]LogActorFactory: Actor Factory created SM_small_props_bar_glass_pack_03
+[2021.05.23-20.30.14:764][561]Cmd: EDIT COPY
+[2021.05.23-20.30.14:990][588]Cmd: EDIT PASTE
+[2021.05.23-20.30.24:895][762]LogStaticMesh: Building static mesh SM_small_props_bar_glass_pack_01...
+[2021.05.23-20.30.25:205][762]LogStaticMesh: Built static mesh [0.31s] /Game/Fuel_Bar/mesh/SM_small_props_bar_glass_pack_01.SM_small_props_bar_glass_pack_01
+[2021.05.23-20.30.25:291][762]LogActorFactory: Actor Factory created SM_small_props_bar_glass_pack_01
+[2021.05.23-20.30.32:901][601]LogActorFactory: Actor Factory created SM_small_props_bar_glass_pack_01
+[2021.05.23-20.31.18:920][886]LogStaticMesh: Building static mesh SM_small_props_bar_glass_pack_02...
+[2021.05.23-20.31.19:641][886]LogStaticMesh: Built static mesh [0.72s] /Game/Fuel_Bar/mesh/SM_small_props_bar_glass_pack_02.SM_small_props_bar_glass_pack_02
+[2021.05.23-20.31.19:944][886]LogActorFactory: Actor Factory created SM_small_props_bar_glass_pack_02
+[2021.05.23-20.31.22:653][204]LogActorFactory: Actor Factory created SM_small_props_bar_glass_pack_02
+[2021.05.23-20.31.25:404][517]Cmd: EDIT COPY
+[2021.05.23-20.31.28:909][936]Cmd: EDIT PASTE
+[2021.05.23-20.31.32:887][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_glass_pack_3)
+[2021.05.23-20.31.33:293][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_bar_back)
+[2021.05.23-20.31.38:298][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_beer_pack_3)
+[2021.05.23-20.31.39:054][129]Cmd: EDIT COPY
+[2021.05.23-20.31.39:282][156]Cmd: EDIT PASTE
+[2021.05.23-20.31.54:202][935]LogStaticMesh: Building static mesh SM_small_props_beer_pack_03...
+[2021.05.23-20.31.55:121][935]LogStaticMesh: Built static mesh [0.92s] /Game/Fuel_Bar/mesh/SM_small_props_beer_pack_03.SM_small_props_beer_pack_03
+[2021.05.23-20.31.55:360][935]LogActorFactory: Actor Factory created SM_small_props_beer_pack_03
+[2021.05.23-20.31.59:589][436]LogActorFactory: Actor Factory created SM_small_props_beer_pack_03
+[2021.05.23-20.32.06:795][293]LogStaticMesh: Building static mesh SM_small_props_bottle_beer_02...
+[2021.05.23-20.32.06:825][293]LogStaticMesh: Built static mesh [0.03s] /Game/Fuel_Bar/mesh/SM_small_props_bottle_beer_02.SM_small_props_bottle_beer_02
+[2021.05.23-20.32.06:886][297]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_02
+[2021.05.23-20.32.11:203][795]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_02
+[2021.05.23-20.32.13:243][ 36]Cmd: EDIT COPY
+[2021.05.23-20.32.13:654][ 85]Cmd: EDIT PASTE
+[2021.05.23-20.32.22:565][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_beer_pack_02)
+[2021.05.23-20.32.27:659][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bottle_beer_02)
+[2021.05.23-20.32.28:481][849]Cmd: EDIT COPY
+[2021.05.23-20.32.28:749][881]Cmd: EDIT PASTE
+[2021.05.23-20.32.31:727][233]Cmd: EDIT PASTE
+[2021.05.23-20.32.35:617][694]Cmd: EDIT PASTE
+[2021.05.23-20.32.42:333][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bottle_beer_5)
+[2021.05.23-20.32.44:397][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bottle_beer_4)
+[2021.05.23-20.32.46:639][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bottle_beer_02)
+[2021.05.23-20.32.51:105][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bottle_beer_3)
+[2021.05.23-20.32.51:653][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_beer_pack_4)
+[2021.05.23-20.32.52:574][691]Cmd: EDIT CUT
+[2021.05.23-20.32.52:577][691]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.32.52:582][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.05.23-20.32.52:583][691]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.05.23-20.32.53:117][755]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_small_props_bottle_beer_3)
+[2021.05.23-20.32.53:339][778]Cmd: EDIT COPY
+[2021.05.23-20.32.54:465][913]Cmd: EDIT CUT
+[2021.05.23-20.32.54:468][913]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.32.54:472][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.23-20.32.54:473][913]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.05.23-20.32.55:669][ 54]LogStaticMesh: Building static mesh SM_small_props_beer_pack_04...
+[2021.05.23-20.32.56:653][ 54]LogStaticMesh: Built static mesh [0.98s] /Game/Fuel_Bar/mesh/SM_small_props_beer_pack_04.SM_small_props_beer_pack_04
+[2021.05.23-20.32.56:896][ 54]LogActorFactory: Actor Factory created SM_small_props_beer_pack_04
+[2021.05.23-20.32.58:534][249]LogActorFactory: Actor Factory created SM_small_props_beer_pack_04
+[2021.05.23-20.33.03:596][847]LogStaticMesh: Building static mesh SM_small_props_bottle_beer_01...
+[2021.05.23-20.33.03:622][847]LogStaticMesh: Built static mesh [0.03s] /Game/Fuel_Bar/mesh/SM_small_props_bottle_beer_01.SM_small_props_bottle_beer_01
+[2021.05.23-20.33.03:704][852]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_01
+[2021.05.23-20.33.05:116][  5]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_01
+[2021.05.23-20.33.11:905][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_beer_pack_03)
+[2021.05.23-20.33.23:522][183]LogStaticMesh: Building static mesh SM_small_props_bottle_beer_04...
+[2021.05.23-20.33.23:551][183]LogStaticMesh: Built static mesh [0.03s] /Game/Fuel_Bar/mesh/SM_small_props_bottle_beer_04.SM_small_props_bottle_beer_04
+[2021.05.23-20.33.23:681][194]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_04
+[2021.05.23-20.33.25:481][381]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_04
+[2021.05.23-20.33.26:404][484]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_04
+[2021.05.23-20.33.28:234][690]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_04
+[2021.05.23-20.33.41:489][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_glass_pack_02)
+[2021.05.23-20.33.46:583][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_glass_pack_3)
+[2021.05.23-20.33.53:497][687]LogStaticMesh: Building static mesh SM_small_props_bar_single_glass_01...
+[2021.05.23-20.33.53:523][687]LogStaticMesh: Built static mesh [0.03s] /Game/Fuel_Bar/mesh/SM_small_props_bar_single_glass_01.SM_small_props_bar_single_glass_01
+[2021.05.23-20.33.53:601][692]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.33.56:287][993]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.33.57:275][101]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.33.58:027][176]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.33.58:799][260]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.34.00:603][452]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.34.06:198][106]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.34.07:325][213]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.34.09:381][442]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.34.14:720][ 72]LogActorFactory: Actor Factory created SM_small_props_bar_glass_pack_01
+[2021.05.23-20.34.17:355][371]LogActorFactory: Actor Factory created SM_small_props_bar_glass_pack_01
+[2021.05.23-20.34.19:414][612]LogStaticMesh: Building static mesh SM_small_props_bar_single_glass_02...
+[2021.05.23-20.34.19:434][612]LogStaticMesh: Built static mesh [0.02s] /Game/Fuel_Bar/mesh/SM_small_props_bar_single_glass_02.SM_small_props_bar_single_glass_02
+[2021.05.23-20.34.19:532][619]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_02
+[2021.05.23-20.34.28:053][594]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_02
+[2021.05.23-20.34.45:763][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_glass_pack_4)
+[2021.05.23-20.34.49:586][149]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_03
+[2021.05.23-20.34.50:687][268]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_03
+[2021.05.23-20.34.51:393][343]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_03
+[2021.05.23-20.34.52:482][462]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_03
+[2021.05.23-20.34.53:109][528]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_03
+[2021.05.23-20.34.54:307][655]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_03
+[2021.05.23-20.35.22:842][ 22]LogActorFactory: Actor Factory created SM_small_props_beer_pack_02
+[2021.05.23-20.35.24:099][158]LogActorFactory: Actor Factory created SM_small_props_beer_pack_02
+[2021.05.23-20.35.36:021][562]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_02
+[2021.05.23-20.35.37:083][674]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_02
+[2021.05.23-20.35.43:421][425]Cmd: EDIT COPY
+[2021.05.23-20.35.43:658][453]Cmd: EDIT PASTE
+[2021.05.23-20.35.57:597][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_bar_back)
+[2021.05.23-20.36.09:866][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_glass_pack_01)
+[2021.05.23-20.36.10:605][655]Cmd: EDIT CUT
+[2021.05.23-20.36.10:608][655]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.36.10:613][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.05.23-20.36.10:614][655]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.05.23-20.36.40:611][655]LogTexture: Display: Building textures: T_decal_01_da (AutoDXT, 4096X4096)
+[2021.05.23-20.36.40:611][655]LogMaterial: Display: Missing cached shader map for material M_windows_lable, compiling. 
+[2021.05.23-20.36.40:682][655]LogMaterial: Display: Missing cached shader map for material M_windows_lable, compiling. 
+[2021.05.23-20.36.40:708][655]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 105
+[2021.05.23-20.36.40:708][655]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 95
+[2021.05.23-20.36.40:708][655]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 85
+[2021.05.23-20.36.40:708][655]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 75
+[2021.05.23-20.36.40:708][655]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 65
+[2021.05.23-20.36.40:708][655]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 55
+[2021.05.23-20.36.40:708][655]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 45
+[2021.05.23-20.36.40:708][655]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 35
+[2021.05.23-20.36.40:708][655]LogStaticMesh: Building static mesh SM_small_props_debris_paper_blue...
+[2021.05.23-20.36.40:732][655]LogStaticMesh: Built static mesh [0.02s] /Game/Fuel_Bar/mesh/SM_small_props_debris_paper_blue.SM_small_props_debris_paper_blue
+[2021.05.23-20.36.40:783][655]LogActorFactory: Actor Factory created SM_small_props_debris_paper_blue
+[2021.05.23-20.36.43:961][913]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 90
+[2021.05.23-20.36.44:166][929]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 80
+[2021.05.23-20.36.44:365][947]LogActorFactory: Actor Factory created SM_small_props_debris_paper_blue
+[2021.05.23-20.36.44:851][987]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 70
+[2021.05.23-20.36.44:896][991]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 61
+[2021.05.23-20.36.44:963][997]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 53
+[2021.05.23-20.36.45:080][  7]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 46
+[2021.05.23-20.36.45:567][ 51]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 40
+[2021.05.23-20.36.46:977][175]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 34
+[2021.05.23-20.36.47:168][192]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 29
+[2021.05.23-20.36.47:593][228]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2021.05.23-20.36.47:760][243]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2021.05.23-20.36.48:909][336]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2021.05.23-20.36.49:004][344]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.05.23-20.36.49:160][358]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.05.23-20.36.49:988][432]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.05.23-20.36.49:999][433]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.05.23-20.36.50:160][448]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.05.23-20.36.50:194][451]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.05.23-20.36.50:383][466]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.05.23-20.36.50:645][487]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.05.23-20.36.50:804][500]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.05.23-20.36.50:827][501]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.05.23-20.36.50:851][502]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.05.23-20.36.51:550][561]LogD3D12RHI: Creating RTPSO with 150 shaders (149 cached, 1 new) took 50.66 ms. Compile time 44.66 ms, link time 5.80 ms.
+[2021.05.23-20.36.51:558][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_debris_paper_blue)
+[2021.05.23-20.37.01:633][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_debris_paper_blue)
+[2021.05.23-20.37.01:912][801]Cmd: EDIT CUT
+[2021.05.23-20.37.01:915][801]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.37.01:920][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.05.23-20.37.01:923][801]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.05.23-20.37.32:293][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.23-20.37.32:329][354]LogSavePackage: Moving 'C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Main_Auto4E63548454E073D852A19F28FA1243E88.tmp' to 'C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Autosaves/Game/Main_Auto4.umap'
+[2021.05.23-20.37.32:330][354]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.042
+[2021.05.23-20.37.32:330][354]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2021.05.23-20.37.45:079][980]LogStaticMesh: Building static mesh SM_small_props_liquor_bottle_10...
+[2021.05.23-20.37.45:111][980]LogStaticMesh: Built static mesh [0.03s] /Game/Fuel_Bar/mesh/SM_small_props_liquor_bottle_10.SM_small_props_liquor_bottle_10
+[2021.05.23-20.37.45:292][998]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_10
+[2021.05.23-20.37.46:600][138]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_10
+[2021.05.23-20.37.49:945][534]LogStaticMesh: Building static mesh SM_small_props_liquor_bottle_01...
+[2021.05.23-20.37.49:974][534]LogStaticMesh: Built static mesh [0.03s] /Game/Fuel_Bar/mesh/SM_small_props_liquor_bottle_01.SM_small_props_liquor_bottle_01
+[2021.05.23-20.37.50:132][549]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_01
+[2021.05.23-20.37.51:524][701]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_01
+[2021.05.23-20.37.57:112][365]LogStaticMesh: Building static mesh SM_small_props_liquor_bottle_05...
+[2021.05.23-20.37.57:144][365]LogStaticMesh: Built static mesh [0.03s] /Game/Fuel_Bar/mesh/SM_small_props_liquor_bottle_05.SM_small_props_liquor_bottle_05
+[2021.05.23-20.37.57:457][398]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_05
+[2021.05.23-20.37.58:227][479]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_05
+[2021.05.23-20.38.08:028][640]LogStaticMesh: Building static mesh SM_small_props_liquor_bottle_08...
+[2021.05.23-20.38.08:054][640]LogStaticMesh: Built static mesh [0.03s] /Game/Fuel_Bar/mesh/SM_small_props_liquor_bottle_08.SM_small_props_liquor_bottle_08
+[2021.05.23-20.38.08:263][660]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_08
+[2021.05.23-20.38.10:034][855]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_08
+[2021.05.23-20.38.13:621][281]Cmd: EDIT COPY
+[2021.05.23-20.38.13:914][316]Cmd: EDIT PASTE
+[2021.05.23-20.38.29:644][191]LogStaticMesh: Building static mesh SM_small_props_liquor_bottle_09...
+[2021.05.23-20.38.29:676][191]LogStaticMesh: Built static mesh [0.03s] /Game/Fuel_Bar/mesh/SM_small_props_liquor_bottle_09.SM_small_props_liquor_bottle_09
+[2021.05.23-20.38.29:752][195]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_09
+[2021.05.23-20.38.30:960][320]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_09
+[2021.05.23-20.38.40:648][464]LogStaticMesh: Building static mesh SM_small_props_liquor_bottle_04...
+[2021.05.23-20.38.40:674][464]LogStaticMesh: Built static mesh [0.03s] /Game/Fuel_Bar/mesh/SM_small_props_liquor_bottle_04.SM_small_props_liquor_bottle_04
+[2021.05.23-20.38.40:780][472]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_04
+[2021.05.23-20.38.43:003][714]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_04
+[2021.05.23-20.38.50:528][608]Cmd: TRANSACTION UNDO
+[2021.05.23-20.38.50:528][608]LogEditorTransaction: Undo Move Actors
+[2021.05.23-20.39.09:977][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_liquor_bottle_04)
+[2021.05.23-20.39.10:483][937]Cmd: EDIT COPY
+[2021.05.23-20.39.10:665][959]Cmd: EDIT PASTE
+[2021.05.23-20.39.22:690][389]LogStaticMesh: Building static mesh SM_small_props_liquor_bottle_03...
+[2021.05.23-20.39.22:721][389]LogStaticMesh: Built static mesh [0.03s] /Game/Fuel_Bar/mesh/SM_small_props_liquor_bottle_03.SM_small_props_liquor_bottle_03
+[2021.05.23-20.39.22:890][404]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_03
+[2021.05.23-20.39.25:996][739]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_03
+[2021.05.23-20.39.38:698][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_bar_back)
+[2021.05.23-20.39.42:176][660]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_05
+[2021.05.23-20.39.45:270][ 14]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_05
+[2021.05.23-20.40.00:371][790]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_09
+[2021.05.23-20.40.02:703][ 19]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_09
+[2021.05.23-20.40.13:255][254]LogStaticMesh: Building static mesh SM_small_props_liquor_bottle_02...
+[2021.05.23-20.40.13:287][254]LogStaticMesh: Built static mesh [0.03s] /Game/Fuel_Bar/mesh/SM_small_props_liquor_bottle_02.SM_small_props_liquor_bottle_02
+[2021.05.23-20.40.13:391][261]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_02
+[2021.05.23-20.40.16:353][575]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_02
+[2021.05.23-20.40.29:561][136]LogStaticMesh: Building static mesh SM_small_props_liquor_bottle_07...
+[2021.05.23-20.40.29:592][136]LogStaticMesh: Built static mesh [0.03s] /Game/Fuel_Bar/mesh/SM_small_props_liquor_bottle_07.SM_small_props_liquor_bottle_07
+[2021.05.23-20.40.29:680][142]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_07
+[2021.05.23-20.40.33:116][526]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_07
+[2021.05.23-20.40.45:527][  7]Cmd: EDIT COPY
+[2021.05.23-20.40.45:762][ 35]Cmd: EDIT PASTE
+[2021.05.23-20.40.54:455][ 66]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_10
+[2021.05.23-20.40.56:515][289]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_10
+[2021.05.23-20.41.09:910][888]Cmd: EDIT COPY
+[2021.05.23-20.41.10:118][913]Cmd: EDIT PASTE
+[2021.05.23-20.41.16:345][643]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_01
+[2021.05.23-20.41.18:152][843]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_01
+[2021.05.23-20.41.23:772][503]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_09
+[2021.05.23-20.41.27:793][952]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_04
+[2021.05.23-20.41.28:806][ 50]LogActorFactory: Actor Factory created SM_small_props_liquor_bottle_04
+[2021.05.23-20.41.53:970][ 21]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_02
+[2021.05.23-20.41.56:416][298]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_02
+[2021.05.23-20.41.57:825][450]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_02
+[2021.05.23-20.41.59:669][653]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_02
+[2021.05.23-20.42.09:931][869]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_01
+[2021.05.23-20.42.11:516][ 43]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_01
+[2021.05.23-20.42.15:092][465]LogStaticMesh: Building static mesh SM_small_props_debris_paper_red...
+[2021.05.23-20.42.15:107][465]LogStaticMesh: Built static mesh [0.02s] /Game/Fuel_Bar/mesh/SM_small_props_debris_paper_red.SM_small_props_debris_paper_red
+[2021.05.23-20.42.15:236][477]LogActorFactory: Actor Factory created SM_small_props_debris_paper_red
+[2021.05.23-20.42.16:275][583]LogActorFactory: Actor Factory created SM_small_props_debris_paper_red
+[2021.05.23-20.42.20:661][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_bar_bottom_90)
+[2021.05.23-20.42.21:515][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_debris_paper_red)
+[2021.05.23-20.42.27:327][893]Cmd: TRANSACTION UNDO
+[2021.05.23-20.42.27:327][893]LogEditorTransaction: Undo Move Actors
+[2021.05.23-20.42.47:266][802]LogStaticMesh: Building static mesh SM_small_props_can02...
+[2021.05.23-20.42.47:297][802]LogStaticMesh: Built static mesh [0.03s] /Game/Fuel_Bar/mesh/SM_small_props_can02.SM_small_props_can02
+[2021.05.23-20.42.47:383][808]LogActorFactory: Actor Factory created SM_small_props_can02
+[2021.05.23-20.42.48:676][934]LogActorFactory: Actor Factory created SM_small_props_can02
+[2021.05.23-20.42.50:150][104]LogActorFactory: Actor Factory created SM_small_props_can02
+[2021.05.23-20.42.53:253][446]LogActorFactory: Actor Factory created SM_small_props_can02
+[2021.05.23-20.42.55:004][646]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_04
+[2021.05.23-20.42.57:625][941]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_04
+[2021.05.23-20.42.58:639][ 53]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.43.02:054][436]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.43.05:380][825]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_03
+[2021.05.23-20.43.07:307][ 34]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_03
+[2021.05.23-20.43.14:548][876]LogActorFactory: Actor Factory created SM_small_props_bar_equipment_05
+[2021.05.23-20.43.15:813][998]LogActorFactory: Actor Factory created SM_small_props_bar_equipment_05
+[2021.05.23-20.43.19:468][426]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_02
+[2021.05.23-20.43.21:717][671]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_02
+[2021.05.23-20.43.22:510][763]Cmd: EDIT CUT
+[2021.05.23-20.43.22:514][763]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.43.22:519][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.05.23-20.43.22:521][763]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.05.23-20.43.23:177][842]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_small_props_bar_equipment_14)
+[2021.05.23-20.43.23:663][897]Cmd: EDIT CUT
+[2021.05.23-20.43.23:667][897]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.43.23:671][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.23-20.43.23:672][897]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.05.23-20.43.25:825][153]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_02
+[2021.05.23-20.43.26:652][241]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_02
+[2021.05.23-20.43.29:361][554]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_02
+[2021.05.23-20.43.31:672][814]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_02
+[2021.05.23-20.43.32:038][855]Cmd: EDIT CUT
+[2021.05.23-20.43.32:042][855]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.43.32:047][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.05.23-20.43.32:048][855]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.05.23-20.43.32:788][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_single_glass_11)
+[2021.05.23-20.43.33:788][ 61]Cmd: EDIT PASTE
+[2021.05.23-20.43.35:634][279]Cmd: EDIT CUT
+[2021.05.23-20.43.35:639][279]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.43.35:644][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.05.23-20.43.35:645][279]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.05.23-20.43.36:327][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_single_glass_11)
+[2021.05.23-20.43.36:937][431]Cmd: EDIT COPY
+[2021.05.23-20.43.37:204][463]Cmd: EDIT PASTE
+[2021.05.23-20.43.41:012][916]Cmd: EDIT PASTE
+[2021.05.23-20.43.43:487][209]Cmd: EDIT PASTE
+[2021.05.23-20.43.46:027][510]Cmd: EDIT PASTE
+[2021.05.23-20.43.48:951][857]Cmd: EDIT PASTE
+[2021.05.23-20.44.00:508][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_single_glass_11)
+[2021.05.23-20.44.02:976][511]Cmd: TRANSACTION UNDO
+[2021.05.23-20.44.02:976][511]LogEditorTransaction: Undo Move Actors
+[2021.05.23-20.44.14:623][854]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_small_props_bar_single_glass_12)
+[2021.05.23-20.44.15:192][919]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_small_props_bar_single_glass_13)
+[2021.05.23-20.44.15:609][966]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_small_props_bar_single_glass_14)
+[2021.05.23-20.44.24:829][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_menu)
+[2021.05.23-20.44.35:228][288]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_03
+[2021.05.23-20.44.36:908][469]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_03
+[2021.05.23-20.44.52:129][284]Cmd: EDIT COPY
+[2021.05.23-20.44.52:370][313]Cmd: EDIT PASTE
+[2021.05.23-20.44.56:276][777]Cmd: EDIT PASTE
+[2021.05.23-20.45.00:802][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_bar_bottom_2m2)
+[2021.05.23-20.45.03:089][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_single_glass_19)
+[2021.05.23-20.45.03:413][609]Cmd: EDIT CUT
+[2021.05.23-20.45.03:416][609]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.45.03:422][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.23-20.45.03:423][609]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.05.23-20.45.03:956][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_single_glass_18)
+[2021.05.23-20.45.04:692][758]Cmd: EDIT COPY
+[2021.05.23-20.45.04:903][783]Cmd: EDIT PASTE
+[2021.05.23-20.45.14:569][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_bar_bottom_2m2)
+[2021.05.23-20.45.15:499][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_single_glass_19)
+[2021.05.23-20.45.22:698][868]LogStaticMesh: Building static mesh SM_small_props_can03...
+[2021.05.23-20.45.22:723][868]LogStaticMesh: Built static mesh [0.03s] /Game/Fuel_Bar/mesh/SM_small_props_can03.SM_small_props_can03
+[2021.05.23-20.45.22:771][870]LogActorFactory: Actor Factory created SM_small_props_can03
+[2021.05.23-20.45.25:183][130]LogActorFactory: Actor Factory created SM_small_props_can03
+[2021.05.23-20.45.26:645][296]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_02
+[2021.05.23-20.45.27:523][383]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_02
+[2021.05.23-20.45.34:508][205]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_04
+[2021.05.23-20.45.35:458][295]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_04
+[2021.05.23-20.45.36:001][355]LogStaticMesh: Building static mesh SM_small_props_bottle_beer_03...
+[2021.05.23-20.45.36:027][355]LogStaticMesh: Built static mesh [0.03s] /Game/Fuel_Bar/mesh/SM_small_props_bottle_beer_03.SM_small_props_bottle_beer_03
+[2021.05.23-20.45.36:094][358]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_03
+[2021.05.23-20.45.37:132][465]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_03
+[2021.05.23-20.45.37:892][547]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_02
+[2021.05.23-20.45.39:577][737]LogActorFactory: Actor Factory created SM_small_props_bottle_beer_02
+[2021.05.23-20.45.45:409][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bottle_beer_13)
+[2021.05.23-20.45.46:398][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_bar_back2)
+[2021.05.23-20.45.47:770][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bottle_beer_13)
+[2021.05.23-20.45.53:274][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bottle_beer_14)
+[2021.05.23-20.45.55:065][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bottle_beer_03)
+[2021.05.23-20.45.59:258][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bottle_beer_12)
+[2021.05.23-20.46.03:500][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_can3)
+[2021.05.23-20.46.44:876][838]LogStaticMesh: Building static mesh SM_small_props_debris_paper_white...
+[2021.05.23-20.46.44:896][838]LogStaticMesh: Built static mesh [0.02s] /Game/Fuel_Bar/mesh/SM_small_props_debris_paper_white.SM_small_props_debris_paper_white
+[2021.05.23-20.46.45:011][847]LogActorFactory: Actor Factory created SM_small_props_debris_paper_white
+[2021.05.23-20.46.46:259][977]LogActorFactory: Actor Factory created SM_small_props_debris_paper_white
+[2021.05.23-20.46.50:586][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_bar_bottom_2m3)
+[2021.05.23-20.46.55:058][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_menu)
+[2021.05.23-20.46.56:437][164]Cmd: EDIT COPY
+[2021.05.23-20.46.58:283][385]Cmd: EDIT PASTE
+[2021.05.23-20.47.20:478][  7]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.47.21:527][118]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.47.22:134][182]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.47.23:271][301]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.47.24:491][437]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.47.25:252][515]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.47.25:894][584]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.47.27:324][738]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.47.38:259][ 40]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.47.39:653][199]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.47.40:425][284]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.47.42:334][485]LogActorFactory: Actor Factory created SM_small_props_bar_single_glass_01
+[2021.05.23-20.47.46:076][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bar_props_craft_beer_02)
+[2021.05.23-20.47.55:190][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_single_glass_24)
+[2021.05.23-20.47.57:854][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_single_glass_25)
+[2021.05.23-20.48.02:798][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_floor5)
+[2021.05.23-20.48.08:009][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_single_glass_25)
+[2021.05.23-20.48.41:287][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_bar_bottom_2m)
+[2021.05.23-20.48.46:287][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_single_glass_21)
+[2021.05.23-20.48.51:215][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_bar_back)
+[2021.05.23-20.48.52:121][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_single_glass_21)
+[2021.05.23-20.48.52:928][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_bar_bottom_2m3)
+[2021.05.23-20.48.58:116][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_can02)
+[2021.05.23-20.48.58:659][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bottle_beer_11)
+[2021.05.23-20.49.03:402][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_bar_back)
+[2021.05.23-20.49.47:336][192]LogStaticMesh: Building static mesh SM_Light_table...
+[2021.05.23-20.49.47:387][192]LogStaticMesh: Built static mesh [0.05s] /Game/Fuel_Bar/mesh/SM_Light_table.SM_Light_table
+[2021.05.23-20.49.47:452][194]LogActorFactory: Actor Factory created SM_Light_table
+[2021.05.23-20.49.47:513][194]LogD3D12RHI: Creating RTPSO with 151 shaders (150 cached, 1 new) took 51.99 ms. Compile time 45.65 ms, link time 6.11 ms.
+[2021.05.23-20.49.51:318][620]LogActorFactory: Actor Factory created SM_Light_table
+[2021.05.23-20.49.59:292][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_table)
+[2021.05.23-20.50.00:143][671]Cmd: EDIT CUT
+[2021.05.23-20.50.00:146][671]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.50.00:152][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.05.23-20.50.00:154][671]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.05.23-20.50.26:089][718]LogStaticMesh: Building static mesh SM_bar_props_barrel_beer...
+[2021.05.23-20.50.26:138][718]LogStaticMesh: Built static mesh [0.05s] /Game/Fuel_Bar/mesh/SM_bar_props_barrel_beer.SM_bar_props_barrel_beer
+[2021.05.23-20.50.26:265][730]LogActorFactory: Actor Factory created SM_bar_props_barrel_beer
+[2021.05.23-20.50.27:846][913]LogActorFactory: Actor Factory created SM_bar_props_barrel_beer
+[2021.05.23-20.50.42:773][683]Cmd: EDIT CUT
+[2021.05.23-20.50.42:776][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.50.42:781][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.05.23-20.50.42:783][683]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.05.23-20.50.44:846][930]Cmd: EDIT PASTE
+[2021.05.23-20.50.47:616][257]Cmd: EDIT PASTE
+[2021.05.23-20.50.49:737][507]Cmd: EDIT PASTE
+[2021.05.23-20.50.54:921][122]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_structure_floor5)
+[2021.05.23-20.50.55:613][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_floor5)
+[2021.05.23-20.51.08:836][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_small_props_bar_single_glass_02)
+[2021.05.23-20.51.10:857][987]Cmd: EDIT COPY
+[2021.05.23-20.51.11:095][ 15]Cmd: EDIT PASTE
+[2021.05.23-20.51.14:507][420]Cmd: EDIT PASTE
+[2021.05.23-20.52.03:058][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.05.23-20.52.03:101][338]LogSavePackage: Moving 'C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Main_Auto533E1DA2C4CD85410294F9D9D6382FB71.tmp' to 'C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Autosaves/Game/Main_Auto5.umap'
+[2021.05.23-20.52.03:103][338]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.051
+[2021.05.23-20.52.03:103][338]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2021.05.23-20.57.37:216][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_stage_5)
+[2021.05.23-20.57.38:040][703]Cmd: EDIT CUT
+[2021.05.23-20.57.38:044][703]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.23-20.57.38:050][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.05.23-20.57.38:051][703]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.05.23-21.02.03:572][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.05.23-21.02.03:621][612]LogSavePackage: Moving 'C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Main_Auto68138B3CF4AA408B9DCFD0596F40E328A.tmp' to 'C:/Users/Tony/Desktop/CPSC 484/Final Project/CPSC484UnrealProject/BilliardsRoom/Saved/Autosaves/Game/Main_Auto6.umap'
+[2021.05.23-21.02.03:622][612]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.055
+[2021.05.23-21.02.03:622][612]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.055
+[2021.05.23-21.12.48:537][290]Cmd: SELECT NONE
+[2021.05.23-21.24.57:040][486]LogActorFactory: Actor Factory created SM_Light_ceiling_fan
+[2021.05.23-21.24.57:112][486]LogD3D12RHI: Creating RTPSO with 152 shaders (151 cached, 1 new) took 52.64 ms. Compile time 44.88 ms, link time 7.53 ms.
+[2021.05.23-21.25.00:502][834]LogActorFactory: Actor Factory created SM_Light_ceiling_fan
+[2021.05.23-21.25.12:081][170]LogActorFactory: Actor Factory created SM_Light_ceiling_fan
+[2021.05.23-21.25.33:155][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_ceiling_fan2)
+[2021.05.23-21.25.46:449][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_ceiling_fan2)
+[2021.05.23-21.25.59:421][645]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.05.23-21.26.07:633][612]Cmd: EDIT COPY
+[2021.05.23-21.26.07:966][652]Cmd: EDIT PASTE
+[2021.05.23-21.26.13:739][324]Cmd: EDIT PASTE
+[2021.05.23-21.26.20:440][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_ceiling_fan3)
+[2021.05.23-21.26.31:891][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_structure_floor10)
