@@ -843,3 +843,151 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.05.24-01.26.49:718][  4]LogD3D12RHI: Creating RTPSO with 151 shaders (150 cached, 1 new) took 10.94 ms. Compile time 0.85 ms, link time 9.86 ms.
 [2021.05.24-01.26.49:789][  7]LogD3D12RHI: Creating RT View Heap with 250000 entries
 [2021.05.24-01.26.49:789][  7]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.24-01.28.55:931][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.05.24-01.28.55:939][993]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.24-01.28.56:329][993]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Main_diff.Main'
+[2021.05.24-01.28.56:329][993]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
+[2021.05.24-01.28.56:358][997]LogD3D12RHI: Creating RTPSO with 162 shaders (151 cached, 11 new) took 16.77 ms. Compile time 11.33 ms, link time 5.25 ms.
+[2021.05.24-01.28.59:186][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.05.24-01.28.59:199][334]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Main.Main
+[2021.05.24-01.28.59:199][334]Cmd: MAP LOAD FILE="../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.24-01.28.59:199][334]LightingResults: New page: Lighting Build
+[2021.05.24-01.28.59:199][334]LoadErrors: New page: Loading map: Main.umap
+[2021.05.24-01.28.59:202][334]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.05.24-01.28.59:203][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.24-01.28.59:203][334]MapCheck: New page: Map Check
+[2021.05.24-01.28.59:203][334]LightingResults: New page: Lighting Build
+[2021.05.24-01.28.59:206][334]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.24-01.28.59:208][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.05.24-01.28.59:214][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.05.24-01.28.59:218][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.05.24-01.28.59:238][334]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2021.05.24-01.28.59:239][334]LogAIModule: Creating AISystem for world Main
+[2021.05.24-01.28.59:271][334]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.24-01.28.59:278][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.05.24-01.28.59:282][334]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.24-01.28.59:282][334]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2021.05.24-01.28.59:282][334]LogFileHelpers: Loading map 'Main' took 0.083
+[2021.05.24-01.29.00:296][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.24-01.29.00:333][454]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
+[2021.05.24-01.29.05:422][ 40]LogContentBrowser: Deferred new asset file creation: Main1
+[2021.05.24-01.29.05:460][ 40]LogContentBrowser: Creating deferred item: Main1
+[2021.05.24-01.29.12:585][884]LogContentBrowser: Attempting asset rename: Main1 -> Main_adinh_diff
+[2021.05.24-01.29.12:666][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.05.24-01.29.12:801][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.05.24-01.29.12:872][884]LogSavePackage: Moving '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Saved/Main_adinh_diff368E625941AA4FC7A39882ACFBB13CB2.tmp' to '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main_adinh_diff.umap'
+[2021.05.24-01.29.12:996][884]LogFileHelpers: Saving map 'Main_adinh_diff' took 0.232
+[2021.05.24-01.29.13:107][884]LogContentBrowser: End creating deferred item Main1
+[2021.05.24-01.29.13:110][884]AssetCheck: New page: Asset Save: Main_adinh_diff
+[2021.05.24-01.29.13:110][884]LogContentValidation: Display: Validating World /Game/Main_adinh_diff.Main_adinh_diff
+[2021.05.24-01.29.13:137][888]LogD3D12RHI: Creating RTPSO with 177 shaders (162 cached, 15 new) took 17.21 ms. Compile time 11.02 ms, link time 5.97 ms.
+[2021.05.24-01.29.14:231][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.24-01.29.14:244][ 18]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Main_adinh_diff.Main_adinh_diff
+[2021.05.24-01.29.14:244][ 18]Cmd: MAP LOAD FILE="../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main_adinh_diff.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.24-01.29.14:244][ 18]LightingResults: New page: Lighting Build
+[2021.05.24-01.29.14:244][ 18]LoadErrors: New page: Loading map: Main_adinh_diff.umap
+[2021.05.24-01.29.14:276][ 18]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.05.24-01.29.14:277][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.24-01.29.14:277][ 18]MapCheck: New page: Map Check
+[2021.05.24-01.29.14:277][ 18]LightingResults: New page: Lighting Build
+[2021.05.24-01.29.14:281][ 18]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.24-01.29.14:282][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.05.24-01.29.14:288][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.05.24-01.29.14:292][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.24-01.29.14:292][ 18]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_adinh_diff'.
+[2021.05.24-01.29.14:322][ 18]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.24-01.29.14:322][ 18]LogAIModule: Creating AISystem for world Main_adinh_diff
+[2021.05.24-01.29.14:329][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.24-01.29.14:333][ 18]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.24-01.29.14:333][ 18]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.088ms to complete.
+[2021.05.24-01.29.14:333][ 18]LogFileHelpers: Loading map 'Main_adinh_diff' took 0.090
+[2021.05.24-01.29.15:253][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.05.24-01.29.15:304][126]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Main.Main
+[2021.05.24-01.29.15:305][126]Cmd: MAP LOAD FILE="../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.24-01.29.15:305][126]LightingResults: New page: Lighting Build
+[2021.05.24-01.29.15:305][126]LoadErrors: New page: Loading map: Main.umap
+[2021.05.24-01.29.15:308][126]LogWorld: UWorld::CleanupWorld for Main_adinh_diff, bSessionEnded=true, bCleanupResources=true
+[2021.05.24-01.29.15:308][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.24-01.29.15:308][126]MapCheck: New page: Map Check
+[2021.05.24-01.29.15:308][126]LightingResults: New page: Lighting Build
+[2021.05.24-01.29.15:313][126]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.24-01.29.15:316][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.05.24-01.29.15:316][126]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2021.05.24-01.29.15:347][126]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.24-01.29.15:347][126]LogAIModule: Creating AISystem for world Main
+[2021.05.24-01.29.15:353][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.24-01.29.15:358][126]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.24-01.29.15:358][126]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.097ms to complete.
+[2021.05.24-01.29.15:358][126]LogFileHelpers: Loading map 'Main' took 0.053
+[2021.05.24-01.29.16:666][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.24-01.29.16:716][281]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Main_adinh_diff.Main_adinh_diff
+[2021.05.24-01.29.16:716][281]Cmd: MAP LOAD FILE="../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main_adinh_diff.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.24-01.29.16:716][281]LightingResults: New page: Lighting Build
+[2021.05.24-01.29.16:716][281]LoadErrors: New page: Loading map: Main_adinh_diff.umap
+[2021.05.24-01.29.16:747][281]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.05.24-01.29.16:747][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.24-01.29.16:747][281]MapCheck: New page: Map Check
+[2021.05.24-01.29.16:747][281]LightingResults: New page: Lighting Build
+[2021.05.24-01.29.16:752][281]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.24-01.29.16:754][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.05.24-01.29.16:754][281]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_adinh_diff'.
+[2021.05.24-01.29.16:785][281]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.24-01.29.16:785][281]LogAIModule: Creating AISystem for world Main_adinh_diff
+[2021.05.24-01.29.16:792][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.24-01.29.16:796][281]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.24-01.29.16:796][281]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.096ms to complete.
+[2021.05.24-01.29.16:796][281]LogFileHelpers: Loading map 'Main_adinh_diff' took 0.080
+[2021.05.24-01.29.22:098][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.24-01.29.22:136][888]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Main_diff.Main_diff
+[2021.05.24-01.29.22:136][888]Cmd: MAP LOAD FILE="../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main_diff.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.24-01.29.22:136][888]LightingResults: New page: Lighting Build
+[2021.05.24-01.29.22:136][888]LoadErrors: New page: Loading map: Main_diff.umap
+[2021.05.24-01.29.22:167][888]LogWorld: UWorld::CleanupWorld for Main_adinh_diff, bSessionEnded=true, bCleanupResources=true
+[2021.05.24-01.29.22:167][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.24-01.29.22:167][888]MapCheck: New page: Map Check
+[2021.05.24-01.29.22:167][888]LightingResults: New page: Lighting Build
+[2021.05.24-01.29.22:172][888]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.24-01.29.22:174][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.05.24-01.29.22:175][888]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_diff'.
+[2021.05.24-01.29.22:185][888]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.24-01.29.22:185][888]LogAIModule: Creating AISystem for world Main_diff
+[2021.05.24-01.29.22:191][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.05.24-01.29.22:195][888]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.24-01.29.22:195][888]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.104ms to complete.
+[2021.05.24-01.29.22:195][888]LogFileHelpers: Loading map 'Main_diff' took 0.059
+[2021.05.24-01.29.26:830][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.05.24-01.29.26:886][440]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Main.Main
+[2021.05.24-01.29.26:886][440]Cmd: MAP LOAD FILE="../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.24-01.29.26:886][440]LightingResults: New page: Lighting Build
+[2021.05.24-01.29.26:886][440]LoadErrors: New page: Loading map: Main.umap
+[2021.05.24-01.29.26:888][440]LogWorld: UWorld::CleanupWorld for Main_diff, bSessionEnded=true, bCleanupResources=true
+[2021.05.24-01.29.26:888][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.24-01.29.26:888][440]MapCheck: New page: Map Check
+[2021.05.24-01.29.26:888][440]LightingResults: New page: Lighting Build
+[2021.05.24-01.29.26:893][440]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.24-01.29.26:895][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.05.24-01.29.26:896][440]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2021.05.24-01.29.26:926][440]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.24-01.29.26:926][440]LogAIModule: Creating AISystem for world Main
+[2021.05.24-01.29.26:933][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.24-01.29.26:938][440]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.24-01.29.26:938][440]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2021.05.24-01.29.26:938][440]LogFileHelpers: Loading map 'Main' took 0.052
+[2021.05.24-01.29.29:046][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.24-01.29.29:097][682]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Main_adinh_diff.Main_adinh_diff
+[2021.05.24-01.29.29:097][682]Cmd: MAP LOAD FILE="../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main_adinh_diff.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.24-01.29.29:097][682]LightingResults: New page: Lighting Build
+[2021.05.24-01.29.29:097][682]LoadErrors: New page: Loading map: Main_adinh_diff.umap
+[2021.05.24-01.29.29:147][682]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.05.24-01.29.29:148][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.24-01.29.29:148][682]MapCheck: New page: Map Check
+[2021.05.24-01.29.29:148][682]LightingResults: New page: Lighting Build
+[2021.05.24-01.29.29:153][682]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.24-01.29.29:156][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.05.24-01.29.29:156][682]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_adinh_diff'.
+[2021.05.24-01.29.29:187][682]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.24-01.29.29:187][682]LogAIModule: Creating AISystem for world Main_adinh_diff
+[2021.05.24-01.29.29:194][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.05.24-01.29.29:198][682]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.24-01.29.29:199][682]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.099ms to complete.
+[2021.05.24-01.29.29:199][682]LogFileHelpers: Loading map 'Main_adinh_diff' took 0.101
