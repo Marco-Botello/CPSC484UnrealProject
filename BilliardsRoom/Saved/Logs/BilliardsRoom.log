@@ -3801,3 +3801,224 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.05.24-00.21.42:793][ 25]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.24-00.21.42:793][ 25]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main_BuiltData.Main_BuiltData
 [2021.05.24-00.21.42:793][ 25]LogContentValidation: Display: Validating World /Game/Main.Main
+[2021.05.24-00.25.03:783][361]LogTemp: Repeating last play command: Standalone Game
+[2021.05.24-00.25.03:800][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.05.24-00.25.35:626][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_9)
+[2021.05.24-00.25.37:133][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_9)
+[2021.05.24-00.25.37:633][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_10)
+[2021.05.24-00.25.38:668][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_9)
+[2021.05.24-00.25.40:502][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_10)
+[2021.05.24-00.25.49:501][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.24-00.25.49:511][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.05.24-00.25.49:586][652]LogSavePackage: Moving '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Saved/Main9A4F40034FBBF3A0DD15F1896BEB01E2.tmp' to '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main.umap'
+[2021.05.24-00.25.49:593][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_BuiltData" FILE="../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main_BuiltData.uasset" SILENT=true
+[2021.05.24-00.25.50:016][652]LogSavePackage: Moving '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Saved/Main_BuiltDataFF0041014D7441DCFFC6B0A8CA1F50F5.tmp' to '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main_BuiltData.uasset'
+[2021.05.24-00.25.50:031][652]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.24-00.25.50:031][652]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main_BuiltData.Main_BuiltData
+[2021.05.24-00.25.50:031][652]LogContentValidation: Display: Validating World /Game/Main.Main
+[2021.05.24-00.25.51:061][772]LogTemp: Repeating last play command: Standalone Game
+[2021.05.24-00.25.51:076][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.05.24-00.26.12:330][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Walls_Top_8m_big_sqr_3win)
+[2021.05.24-00.26.12:881][167]Cmd: TRANSACTION UNDO
+[2021.05.24-00.26.12:881][167]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.24-00.26.14:367][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_9)
+[2021.05.24-00.26.14:627][328]Cmd: TRANSACTION UNDO
+[2021.05.24-00.26.14:627][328]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.24-00.26.19:727][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_9)
+[2021.05.24-00.26.20:262][986]Cmd: TRANSACTION UNDO
+[2021.05.24-00.26.20:262][986]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.24-00.26.23:823][363]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Windows_9)
+[2021.05.24-00.26.25:582][565]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Windows_8)
+[2021.05.24-00.26.26:483][667]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Windows_7)
+[2021.05.24-00.26.26:803][702]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Windows_4)
+[2021.05.24-00.26.27:574][791]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Walls_Top_8m_big_sqr_3win3)
+[2021.05.24-00.26.29:088][966]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Windows_5)
+[2021.05.24-00.26.29:842][ 53]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Walls_Top_8m_big_sqr_3win3)
+[2021.05.24-00.26.30:686][151]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Buildings_Low_4m_15)
+[2021.05.24-00.26.33:637][498]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Walls_Top_8m_big_sqr_3win3)
+[2021.05.24-00.26.34:922][645]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Walls_Top_8m_big_sqr_3win3)
+[2021.05.24-00.26.40:009][240]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Windows_6)
+[2021.05.24-00.26.43:317][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.24-00.26.43:328][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.05.24-00.26.43:405][630]LogSavePackage: Moving '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Saved/Main042049D44710071381F99091FD7DBB51.tmp' to '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main.umap'
+[2021.05.24-00.26.43:412][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_BuiltData" FILE="../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main_BuiltData.uasset" SILENT=true
+[2021.05.24-00.26.43:828][630]LogSavePackage: Moving '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Saved/Main_BuiltData60C1F52F47803C30CCCA0EB996A47972.tmp' to '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main_BuiltData.uasset'
+[2021.05.24-00.26.43:843][630]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.24-00.26.43:843][630]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main_BuiltData.Main_BuiltData
+[2021.05.24-00.26.43:843][630]LogContentValidation: Display: Validating World /Game/Main.Main
+[2021.05.24-00.26.45:296][797]LogTemp: Repeating last play command: Standalone Game
+[2021.05.24-00.26.45:311][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.05.24-00.27.22:759][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_9)
+[2021.05.24-00.27.24:032][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Walls_Top_8m_big_sqr_3win)
+[2021.05.24-00.27.24:741][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_9)
+[2021.05.24-00.27.30:089][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.24-00.27.30:099][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.05.24-00.27.30:175][794]LogSavePackage: Moving '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Saved/Main958C425243AD2410BFEED58D0A55959D.tmp' to '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main.umap'
+[2021.05.24-00.27.30:182][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_BuiltData" FILE="../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main_BuiltData.uasset" SILENT=true
+[2021.05.24-00.27.30:603][794]LogSavePackage: Moving '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Saved/Main_BuiltData8919EDB44CA2F06477233E82A342EB0A.tmp' to '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main_BuiltData.uasset'
+[2021.05.24-00.27.30:616][794]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.24-00.27.30:616][794]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main_BuiltData.Main_BuiltData
+[2021.05.24-00.27.30:616][794]LogContentValidation: Display: Validating World /Game/Main.Main
+[2021.05.24-00.27.30:943][833]LogTemp: Repeating last play command: Standalone Game
+[2021.05.24-00.27.30:958][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.05.24-00.27.43:211][338]Cmd: SELECT NONE
+[2021.05.24-00.27.44:609][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_9)
+[2021.05.24-00.27.46:651][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Walls_Top_8m_big_sqr_3win)
+[2021.05.24-00.27.47:972][452]Cmd: SELECT NONE
+[2021.05.24-00.27.56:443][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_10)
+[2021.05.24-00.28.02:667][829]Cmd: SELECT NONE
+[2021.05.24-00.28.07:900][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_10)
+[2021.05.24-00.28.09:985][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_10)
+[2021.05.24-00.28.25:950][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_9)
+[2021.05.24-00.28.27:244][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_10)
+[2021.05.24-00.28.28:449][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_9)
+[2021.05.24-00.28.31:663][655]Cmd: TRANSACTION UNDO
+[2021.05.24-00.28.31:663][655]LogEditorTransaction: Undo Move Actors
+[2021.05.24-00.28.32:265][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Walls_Top_8m_big_sqr_3win)
+[2021.05.24-00.28.33:743][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_10)
+[2021.05.24-00.28.35:076][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_9)
+[2021.05.24-00.28.45:511][147]Cmd: SELECT NONE
+[2021.05.24-00.29.12:664][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.24-00.29.12:675][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.05.24-00.29.12:755][999]LogSavePackage: Moving '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Saved/MainCDF396C545CC0542691905A64115FFD2.tmp' to '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main.umap'
+[2021.05.24-00.29.12:762][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_BuiltData" FILE="../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main_BuiltData.uasset" SILENT=true
+[2021.05.24-00.29.13:201][999]LogSavePackage: Moving '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Saved/Main_BuiltData759F012243D534CB51C4E1ADAD0644D1.tmp' to '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main_BuiltData.uasset'
+[2021.05.24-00.29.13:216][999]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.24-00.29.13:216][999]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main_BuiltData.Main_BuiltData
+[2021.05.24-00.29.13:217][999]LogContentValidation: Display: Validating World /Game/Main.Main
+[2021.05.24-00.29.18:998][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_10)
+[2021.05.24-00.29.20:441][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_9)
+[2021.05.24-00.29.21:551][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_10)
+[2021.05.24-00.29.23:998][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_9)
+[2021.05.24-00.29.27:294][469]Cmd: SELECT NONE
+[2021.05.24-00.29.29:119][519]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Windows_10)
+[2021.05.24-00.29.29:594][533]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Windows_9)
+[2021.05.24-00.29.30:027][544]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Windows_8)
+[2021.05.24-00.29.30:393][554]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Windows_7)
+[2021.05.24-00.29.31:928][589]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Windows_4)
+[2021.05.24-00.29.32:367][597]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Windows_5)
+[2021.05.24-00.29.32:707][603]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Windows_6)
+[2021.05.24-00.29.40:050][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.24-00.29.40:061][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.05.24-00.29.40:134][732]LogSavePackage: Moving '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Saved/Main42692BDE4C5B9EE09E98CB951BC7D6F4.tmp' to '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main.umap'
+[2021.05.24-00.29.40:141][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_BuiltData" FILE="../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main_BuiltData.uasset" SILENT=true
+[2021.05.24-00.29.40:561][732]LogSavePackage: Moving '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Saved/Main_BuiltData4DBCDF66429D8317D59AE18CEBCC8A99.tmp' to '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main_BuiltData.uasset'
+[2021.05.24-00.29.40:577][732]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.24-00.29.40:577][732]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main_BuiltData.Main_BuiltData
+[2021.05.24-00.29.40:577][732]LogContentValidation: Display: Validating World /Game/Main.Main
+[2021.05.24-00.29.40:867][741]Cmd: SELECT NONE
+[2021.05.24-00.29.42:221][763]MapCheck: New page: Map Check
+[2021.05.24-00.29.42:239][763]Cmd: MAP REBUILD ALLVISIBLE
+[2021.05.24-00.29.42:239][763]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.05.24-00.29.42:242][763]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=false
+[2021.05.24-00.29.42:289][763]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.05.24-00.29.42:289][763]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.05.24-00.29.42:289][763]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.05.24-00.29.42:304][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.05.24-00.29.42:304][763]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.24-00.29.42:306][763]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.24-00.29.42:307][763]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.24-00.29.42:310][763]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.24-00.29.42:312][763]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.24-00.29.42:313][763]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.24-00.29.42:315][763]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 10
+[2021.05.24-00.29.42:315][763]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2021.05.24-00.29.42:315][763]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.05.24-00.29.42:315][763]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2021.05.24-00.29.42:315][763]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2021.05.24-00.29.42:315][763]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2021.05.24-00.29.42:315][763]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2021.05.24-00.29.42:315][763]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2021.05.24-00.29.42:315][763]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2021.05.24-00.29.42:315][763]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2021.05.24-00.29.42:315][763]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.24-00.29.42:316][763]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.24-00.29.42:317][763]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.24-00.29.42:319][763]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.24-00.29.42:320][763]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.24-00.29.43:090][763]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 12
+[2021.05.24-00.29.43:090][763]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2021.05.24-00.29.43:090][763]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2021.05.24-00.29.43:090][763]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.05.24-00.29.43:090][763]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2021.05.24-00.29.43:090][763]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2021.05.24-00.29.43:090][763]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2021.05.24-00.29.43:090][763]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2021.05.24-00.29.43:090][763]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2021.05.24-00.29.43:090][763]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2021.05.24-00.29.43:090][763]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2021.05.24-00.29.43:090][763]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.05.24-00.29.43:090][763]TextureStreamingBuild: Display: Compiling optional shaders took 0.785 seconds.
+[2021.05.24-00.29.43:106][763]LogLevel: Display: Export Material TexCoord Scales took 0.016 seconds.
+[2021.05.24-00.29.43:132][763]TextureStreamingBuild: Display: Build Texture Streaming took 0.026 seconds.
+[2021.05.24-00.29.43:144][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.05.24-00.29.43:146][763]LightingResults: New page: Lighting Build - May 23, 2021, 10:29:43 AM
+[2021.05.24-00.29.43:152][763]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.05.24-00.29.43:155][763]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.05.24-00.29.43:155][763]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.05.24-00.29.43:156][763]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.05.24-00.29.43:156][763]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17536
+[2021.05.24-00.29.47:692][763]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.05.24-00.29.47:692][763]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.05.24-00.29.47:692][763]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.05.24-00.29.47:692][763]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.05.24-00.29.47:692][763]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.05.24-00.29.47:692][763]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.05.24-00.29.47:737][763]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.05.24-00.29.47:737][763]MapCheck: New page: Main - May 23, 2021, 10:29:47 AM
+[2021.05.24-00.29.47:737][763]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2021.05.24-00.29.47:738][763]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.103ms to complete.
+[2021.05.24-00.29.47:740][763]LogEditorBuildUtils: Build time 0:05
+[2021.05.24-00.29.47:830][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.05.24-00.30.24:078][872]LightingResults: Warning: SM_keybaord_01 Object has overlapping UVs.
+[2021.05.24-00.30.24:078][872]LightingResults: SM_keybaord_01 Lightmap UV are overlapping by 12.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.24-00.30.25:078][875]LightingResults: Warning: SM_small_props_can_pack_03 Object has overlapping UVs.
+[2021.05.24-00.30.25:078][875]LightingResults: SM_small_props_can_pack_03 Lightmap UV are overlapping by 13.9%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.24-00.30.26:423][879]LightingResults: Warning: SM_small_props_can_pack_03 Object has overlapping UVs.
+[2021.05.24-00.30.26:423][879]LightingResults: SM_small_props_can_pack_03 Lightmap UV are overlapping by 13.9%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.24-00.30.27:097][881]LightingResults: Warning: Sm_drum_kit_complete Object has overlapping UVs.
+[2021.05.24-00.30.27:097][881]LightingResults: Sm_drum_kit_complete Lightmap UV are overlapping by 61.5%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.24-00.30.27:430][882]LightingResults: Warning: SM_small_props_can_pack_04 Object has overlapping UVs.
+[2021.05.24-00.30.27:430][882]LightingResults: SM_small_props_can_pack_04 Lightmap UV are overlapping by 15.2%. Please adjust content - Enable Error Coloring to visualize.
+[2021.05.24-00.30.29:431][888]Job is a success!
+[2021.05.24-00.30.29:846][889]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2021.05.24-00.30.29:846][889]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.05.24-00.30.29:846][889]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2021.05.24-00.30.29:846][889]LogVolumetricLightmapImport:      Bricks at depth
+[2021.05.24-00.30.29:846][889]LogVolumetricLightmapImport:          0: 1.9% covering 100.0% of volume
+[2021.05.24-00.30.29:846][889]LogVolumetricLightmapImport:          1: 9.6% covering 7.8% of volume
+[2021.05.24-00.30.29:846][889]LogVolumetricLightmapImport:          2: 88.5% covering 1.1% of volume
+[2021.05.24-00.30.29:846][889]LogVolumetricLightmapImport:      Bricks in each level
+[2021.05.24-00.30.29:846][889]LogVolumetricLightmapImport:          Main 			 52 bricks 	 100.0% (Persistent Level)
+[2021.05.24-00.30.31:134][889]LogTexture: Display: Building textures: HQ_Lightmap1_1 (BGRA8, 4096X4096)
+[2021.05.24-00.30.31:134][889]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (BGRA8, 4096X4096)
+[2021.05.24-00.30.31:334][889]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (BGRA8, 1024X512)
+[2021.05.24-00.30.31:334][889]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (BGRA8, 1024X1024)
+[2021.05.24-00.30.31:795][889]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (G8, 2048X2048)
+[2021.05.24-00.30.31:802][889]LogStaticLightingSystem: Main_BuiltData storing lightmap data for 243 meshes in 4 LightmapResourceClusters (60.8 Meshes per cluster).
+[2021.05.24-00.30.31:821][889]Lightmass on ANDREW-DESKTOP3: 43.5 sec total, 659 ms importing, 495 ms setup, 24.8 sec photons, 17.5 sec processing, 0 ms extra exporting [243/243 mappings]. Threads: 4:23 min total, 1:59 min processing.
+[2021.05.24-00.30.31:827][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.05.24-00.30.31:848][889]LogStaticLightingSystem: Illumination: 48.3 sec (965 ms encoding lightmaps, 651 ms encoding shadowmaps)
+[2021.05.24-00.30.31:848][889]LogStaticLightingSystem: Lightmap texture memory:  170.8 MB (170.8 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.05.24-00.30.31:848][889]LogStaticLightingSystem: Shadowmap texture memory: 13.4 MB (13.4 MB streaming, 0.0 MB non-streaming), 3 textures
+[2021.05.24-00.30.32:708][889]DumpUnbuiltLightIteractions
+[2021.05.24-00.30.32:708][889]Lights with unbuilt interactions: 0
+[2021.05.24-00.30.32:708][889]
+[2021.05.24-00.30.32:708][889]Primitives with unbuilt interactions: 0
+[2021.05.24-00.30.32:744][890]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.05.24-00.30.32:744][890]MapCheck: New page: Main - May 23, 2021, 10:30:32 AM
+[2021.05.24-00.30.32:745][890]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.048ms to complete.
+[2021.05.24-00.39.43:554][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.05.24-00.39.43:627][533]LogSavePackage: Moving '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Saved/Main_Auto39B4B50C649769B9A0D77AD977470D4DD.tmp' to '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Saved/Autosaves/Game/Main_Auto3.umap'
+[2021.05.24-00.39.43:628][533]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.085
+[2021.05.24-00.39.43:628][533]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.085
+[2021.05.24-00.40.51:602][749]LogSlate: Window 'Message Log' being destroyed
+[2021.05.24-00.40.51:657][749]LogSlate: Window 'Message Log' being destroyed
+[2021.05.24-00.40.54:973][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.24-00.40.54:983][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.05.24-00.40.55:056][796]LogSavePackage: Moving '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Saved/MainAFFD38B0471E10C73B2664849FCFE004.tmp' to '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main.umap'
+[2021.05.24-00.40.55:062][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_BuiltData" FILE="../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main_BuiltData.uasset" SILENT=true
+[2021.05.24-00.40.55:482][796]LogSavePackage: Moving '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Saved/Main_BuiltDataFFA46FA042E67445ECE507BBF26D0890.tmp' to '../../../../../../Users/adinh/Work/ue4-dev/CPSC484UnrealProject/BilliardsRoom/Content/Main_BuiltData.uasset'
+[2021.05.24-00.40.55:497][796]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.24-00.40.55:497][796]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main_BuiltData.Main_BuiltData
+[2021.05.24-00.40.55:497][796]LogContentValidation: Display: Validating World /Game/Main.Main
